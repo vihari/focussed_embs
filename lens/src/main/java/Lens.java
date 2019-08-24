@@ -1,0 +1,339 @@
+import org.apache.lucene.analysis.TokenStream;
+import org.apache.lucene.analysis.standard.StandardAnalyzer;
+import org.apache.lucene.analysis.tokenattributes.CharTermAttribute;
+import org.apache.lucene.document.Document;
+import org.apache.lucene.document.Field;
+import org.apache.lucene.document.StringField;
+import org.apache.lucene.document.TextField;
+import org.apache.lucene.index.*;
+import org.apache.lucene.search.*;
+import org.apache.lucene.store.Directory;
+import org.apache.lucene.store.FSDirectory;
+import org.apache.lucene.util.QueryBuilder;
+
+import java.io.*;
+import java.nio.file.Paths;
+import java.util.*;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
+import java.util.stream.Stream;
+
+/**
+ * Created by vihari on 10/08/18.
+ */
+public class Lens {
+    static List<String> text(TokenStream tokenStream) throws IOException {
+        CharTermAttribute charTermAttribute = tokenStream.addAttribute(CharTermAttribute.class);
+
+        List<String> toks = new ArrayList<>();
+        tokenStream.reset();
+        while (tokenStream.incrementToken()) {
+            String term = charTermAttribute.toString();
+            if (term.length()>2)
+                toks.add(term);
+        }
+        tokenStream.close();
+        return toks;
+    }
+
+    static String TGT = "physics_se";
+    static String work = "vectors_" + TGT + "/ir_select";
+    static String src_index_dir = work + "/src_t1_index";
+    static float targetParam = .9f;
+    static int ws = 50;
+    
+    static void set(String tgt, float t, int w) {
+        TGT = tgt;
+        work = "vectors_" + TGT + "/ir_select";
+        src_index_dir = work + "/src_t1_index";
+        targetParam = t;
+        ws = w;
+        System.out.println("TGT: "+ tgt + "\n" +
+                "work dir: " + work + "\n" +
+                "target param: " + targetParam + "\n" +
+                "ws: " + ws);
+    }
+
+    private static IndexWriter getWriter(Directory directory) throws IOException {
+        IndexWriterConfig config = new IndexWriterConfig(new StandardAnalyzer());
+        return new IndexWriter(directory, config);
+    }
+
+    static void WriteTgt() throws IOException{
+        Runtime r = Runtime.getRuntime();
+        Process p = r.exec("mkdir -p " + src_index_dir);
+        try {
+            p.waitFor();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
+        if (new File(work + "/content1.txt").exists() && new File(work + "/content2.txt").exists())
+            return;
+
+        System.out.println("Splitting and writing target corpus in to two disjoints...");
+        OutputStreamWriter fw1 = null, fw2 = null;
+        LineNumberReader in = null;
+        try {
+            fw1 = new OutputStreamWriter(new FileOutputStream(work + "/content1.txt"), "UTF-8");
+            fw2 = new OutputStreamWriter(new FileOutputStream(work + "/content2.txt"), "UTF-8");
+            in = new LineNumberReader(new InputStreamReader(new FileInputStream("vectors_" + TGT + "/content.txt"), "UTF-8"));
+        } catch (UnsupportedEncodingException | FileNotFoundException e) {
+            e.printStackTrace();
+        }
+        String line = null;
+        try {
+            while ((line = in.readLine()) != null) {
+                if (Math.random() < .5) fw1.write(line + "\n");
+                else fw2.write(line + "\n");
+            }
+            in.close();
+            fw1.close();
+            fw2.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        System.out.println("Done");
+    }
+
+    public static void Index() throws IOException {
+        String SRC = "wiki";
+        final int SNIPPET_SIZE = 10;
+        if (DirectoryReader.indexExists(FSDirectory.open(Paths.get(src_index_dir)))) return;
+
+        IndexWriter writer = getWriter(FSDirectory.open(Paths.get(src_index_dir)));
+        System.out.println("Creating index...");
+
+        LineNumberReader lnrs[] = new LineNumberReader[]{
+                new LineNumberReader(new InputStreamReader(new FileInputStream("vectors_" + SRC + "/content.txt"), "UTF-8")),
+                new LineNumberReader(new InputStreamReader(new FileInputStream(work + "/content1.txt"), "UTF-8"))
+        };
+
+        int lnri = 0;
+        for (LineNumberReader lnr : lnrs){
+            List<String> lines = lnr.lines().collect(Collectors.toList());
+            for(int li=0; li<lines.size(); li++){
+                String line = lines.get(li);
+                List<String> bf = new ArrayList<>();
+                for (String w: line.split(" ")){
+                    bf.add(w);
+                    if (bf.size() >= SNIPPET_SIZE) {
+                        Document doc = new Document();
+                        doc.add(new TextField("content", String.join(" ", bf), Field.Store.YES));
+                        doc.add(new StringField("t1", ""+lnri, Field.Store.YES));
+                        writer.addDocument(doc);
+                        bf = new ArrayList<>();
+                    }
+                }
+                System.out.print("\r"+li+"/"+lines.size());
+            }
+            System.out.println();
+            lnri += 1;
+            lnr.close();
+        }
+
+        writer.commit();
+        System.out.println("Done");
+    }
+
+    static void run() throws IOException {
+        WriteTgt();
+        Directory index_dir;
+        IndexReader _r;
+        try {
+            index_dir = FSDirectory.open(Paths.get(src_index_dir));
+            _r = DirectoryReader.open(index_dir);
+        } catch (IndexNotFoundException infe){
+            System.out.println("No index found, creating one...");
+            Index();
+            index_dir = FSDirectory.open(Paths.get(src_index_dir));
+            _r = DirectoryReader.open(index_dir);
+        }
+        final IndexReader reader = _r;
+        final IndexSearcher searcher = new IndexSearcher(reader);
+
+        StandardAnalyzer analyzer = new StandardAnalyzer();
+        LineNumberReader[] lnrs = new LineNumberReader[]{new LineNumberReader(new FileReader("vectors_" + TGT + "/content.txt"))};
+        long _d = 0;
+        Map<String, Integer> freqs = new LinkedHashMap<>();
+
+        for (LineNumberReader lnr1: lnrs) {
+            String line;
+            while ((line = lnr1.readLine()) != null) {
+                Set<String> words = text(analyzer.tokenStream("", line)).stream().collect(Collectors.toSet());
+                for (String w : words) {
+                    freqs.put(w, freqs.getOrDefault(w, 0) + 1);
+                    _d++;
+                }
+            }
+        }
+
+        Map<String, Double> idfs = new LinkedHashMap<>();
+        for(String str: freqs.keySet())
+            idfs.put(str, Math.log(_d/(1+freqs.get(str))));
+
+        LineNumberReader lnr = new LineNumberReader(new FileReader(work + "/content2.txt"));
+        int t2_ws = ws;
+        int t2_docid = 0;
+        Map<String, Map<Integer, Double>> termScores = new LinkedHashMap<>();
+        List<String> lines = lnr.lines().collect(Collectors.toList());
+        List<String> t2s = new ArrayList<>();
+        for (String l: lines) {
+            List<String> toks = null;
+            try {
+                toks = text(analyzer.tokenStream("", l)).stream().collect(Collectors.toList());
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+            int end = toks.size() / t2_ws;
+            for (int i = 0; i < end; i++) {
+                double _s = 0;
+                Map<String, Double> l_termscores = new LinkedHashMap<>();
+                List<String> bf = new ArrayList<>();
+                for (int j = i; j < i + t2_ws; j++) {
+                    String w = toks.get(j);
+                    if (bf.contains(w)) continue;
+                    _s += idfs.get(w);
+                    l_termscores.put(w, l_termscores.getOrDefault(w, 0.) + idfs.get(w));
+                    bf.add(w);
+                }
+                // to fight noise
+                if (bf.stream().collect(Collectors.toSet()).size()<(t2_ws/2)) continue;
+                for (Map.Entry<String, Double> e : l_termscores.entrySet()) {
+                    Map<Integer, Double> _m = termScores.getOrDefault(e.getKey(), new LinkedHashMap<>());
+                    double _v = e.getValue() / _s;
+                    if (_v>0.0) {
+                        _m.put(t2_docid, _v);
+                        termScores.put(e.getKey(), _m);
+                    }
+                }
+                t2s.add(String.join(" ", bf));
+                t2_docid++;
+            }
+        }
+
+        float lo = 0, hi = 1.0f;
+        int num_probes = 0;
+        float target = targetParam;
+        double docThreshold;
+
+        while (true) {
+            QueryBuilder qb = new QueryBuilder(analyzer);
+            Map<Integer, Double> docScores = new LinkedHashMap<>();
+
+            ScoreDoc[] sds1 = searcher.search(qb.createBooleanQuery("t1", "0"), 1000000).scoreDocs;
+            System.out.println("Num src docs: " + sds1.length);
+            ScoreDoc[] sds = searcher.search(qb.createBooleanQuery("t1", "1"), 1000000).scoreDocs;
+            System.out.println("Num t1 docs: " + sds.length);
+
+            float eps = (lo + hi) / 2;
+            System.out.println("Threshold: " + eps);
+            Stream.of(sds).parallel().map(sdoc->{
+                try {
+                    Document doc = reader.document(sdoc.doc);
+                    Set<String> toks = text(analyzer.tokenStream("", doc.get("content"))).stream().collect(Collectors.toSet());
+                    Map<Integer, Double> agg_map = new LinkedHashMap<>();
+                    for (String tok : toks)
+                        if (termScores.containsKey(tok))
+                            for (Map.Entry<Integer, Double> e : termScores.get(tok).entrySet()) {
+                                double _v = agg_map.getOrDefault(e.getKey(), 0.) + e.getValue();
+                                agg_map.put(e.getKey(), _v);
+                                if (_v > eps) {
+                                    break;
+                                }
+                            }
+
+                    Double agg_val = agg_map.values().stream()
+                            .filter(s->s>eps)
+                            .reduce(Double::sum)
+                            .orElseGet(() -> 0.);
+                    if (agg_val > eps)
+                        docScores.put(sdoc.doc, agg_val);
+                    System.err.print("\r" + docScores.size() + "/" + sds.length);
+                } catch (IOException ie) {ie.printStackTrace();}
+                return -1;
+            }).collect(Collectors.toList());
+
+            float fraction = ((float) docScores.size()) / sds.length;
+            //if ((hi - lo) < 0.1) break;
+            if (num_probes >= 10 || Math.abs(fraction-target)<0.01) {
+                System.out.println("Size: " + docScores.size());
+                List<Double> sortedDocScores = docScores.values().stream().collect(Collectors.toList());
+                Collections.sort(sortedDocScores);
+                docThreshold = sortedDocScores.get((int)((1-target)*sortedDocScores.size()));
+                System.err.println("Num probes: " + num_probes + " -- " + fraction + "--" + sds.length);
+
+                break;
+            }
+            if (fraction < target) hi = (lo + hi) / 2;
+            else lo = (hi + lo) / 2;
+            num_probes++;
+            System.err.println("Num probes: " + num_probes + " -- " + fraction + "--" + sds.length);
+        }
+        System.out.println("Getting...");
+        double queryThresh = (lo+hi)/2;
+        //double thresh = .5f;
+
+        System.err.println("Threshold: " + queryThresh + " Doc thresh: " + docThreshold);
+
+        OutputStreamWriter osw = new OutputStreamWriter(new FileOutputStream(work + "/selected.txt"));
+        OutputStreamWriter osw2 = new OutputStreamWriter(new FileOutputStream(work + "/selected-debug.txt"));
+        List<Integer> arr = new ArrayList<>();
+        IntStream.range(0, reader.numDocs())
+                .parallel()
+                .filter(i -> {
+                    try {
+                        return reader.document(i).get("t1").equals("0");
+                    } catch (IOException e) {
+                        e.printStackTrace();
+                    }
+                    return false;
+                })
+                .map(i-> {
+                    try {
+                        Document doc = reader.document(i);
+
+                        String content = doc.get("content");
+                        Set<String> toks = text(analyzer.tokenStream("", content)).stream().collect(Collectors.toSet());
+                        Map<Integer, Double> agg_map = new LinkedHashMap<>();
+                        toks.stream().filter(termScores::containsKey).forEach(w -> {
+                            for (Map.Entry<Integer, Double> e : termScores.get(w).entrySet())
+                                agg_map.put(e.getKey(), agg_map.getOrDefault(e.getKey(), 0.) + e.getValue());
+                        });
+
+                        Map.Entry<Integer, Double> best_val = agg_map.entrySet().stream()
+                                .reduce((a, b) -> a.getValue() > b.getValue() ? a : b).orElseGet(() -> null);
+                        double docScore = agg_map.values().stream().filter(s->s>queryThresh).reduce(Double::sum).orElse(0.);
+                        if (best_val != null && docScore > docThreshold) {
+                            osw.write(content + "\n");
+                            osw2.write(content + " -- " + best_val.getValue() + "\n");
+                            osw2.write(t2s.get(best_val.getKey()) + "\n");
+                            String[] _ws = t2s.get(best_val.getKey()).split(" ");
+                            osw2.write(String.join(" -- ", Stream.of(_ws).filter(toks::contains).collect(Collectors.toList())) + "\n");
+
+                        }
+                        arr.add(0);
+                        if (arr.size()%1000==0)
+                            System.err.print("\r" + arr.size()+" of 6M");
+                    } catch (IOException ie) {
+                        ie.printStackTrace();
+                    }
+                    return 0;
+                }).reduce(Integer::max);
+        osw.close();
+        osw2.close();
+
+	System.out.println("The selected snippets from SRC have been dumped to: " + work + "/selected.txt");
+    }
+
+    public static void main(String[] args) throws IOException {
+	/**
+	   Expects three command line arguments.
+	   1. The name of your target, for example "physics" when you have a folder named `vector_physics` in the base folder with 'content.txt' in it.
+	   2. Coverage hyperparameter, a float value between 0 and 1. This is expected in-domain coverage fraction. Should be high ~0.9, but not 1 to overfit.
+	   3. Window size, natural number. The content in source is split in to multiple mini-documents of this size (characters) -- quantum of selection.
+	 */
+        set(args[0], Float.parseFloat(args[1]), Integer.parseInt(args[2]));
+        run();
+    }
+}
