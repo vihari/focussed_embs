@@ -62,8 +62,11 @@ public class Lens {
     static void WriteTgt() throws IOException{
         Runtime r = Runtime.getRuntime();
         Process p = r.exec("mkdir -p " + src_index_dir);
+	Process p2 = r.exec("mkdir -p " + work);
+	
         try {
             p.waitFor();
+	    p2.waitFor();
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
@@ -98,7 +101,7 @@ public class Lens {
 
     public static void Index() throws IOException {
         String SRC = "wiki";
-        final int SNIPPET_SIZE = 10;
+        final int SNIPPET_SIZE = ws;
         if (DirectoryReader.indexExists(FSDirectory.open(Paths.get(src_index_dir)))) return;
 
         IndexWriter writer = getWriter(FSDirectory.open(Paths.get(src_index_dir)));

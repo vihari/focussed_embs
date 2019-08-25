@@ -14,11 +14,12 @@ The folders *{physics,gaming,android,unix}*_10mb are similar but with the only d
 ## Topic sensitive text retriever
 The crucial part of the algorithm is collection of relevant snippets of text from a large generic corpus such as Wikipedia.
 
-The maven (Java) project can be used to collect target relevant content from Source. 
+The maven (Java) project under teh folder `lens` can be used to collect target relevant content from Source. 
 
 Follow the steps below.  
-	1. Place your source (multi-topic generic corpora) text in a folder named `lens/vector_wiki` and name it `content.txt`.
-	2. Use the small target relevant text in a folder called `lens/vector_X` with the file name `content.txt` again. 
-	3. Once you have built the maven project, run using the command: `cd lens/; java -jar target/lens-0.01.one-jar.jar X 0.9 200` where 'X' is the target name assigned in step (2). See 'lens/src/main/java/Lens.java' for the meaning of the command line arguments. 
+	1. Place your source (multi-topic generic corpora) text in a folder named `lens/vector_wiki` and name it `content.txt`.  
+	2. Use the small target relevant text in a folder called `lens/vector_X` with the file name `content.txt` again.   
+	3. Once you have built the maven project, run using the command: `cd lens/; java -jar target/lens-0.01.one-jar.jar X 0.9 50` where 'X' is the target name assigned in step (2). See 'lens/src/main/java/Lens.java' for the meaning of the command line arguments.   
 	
+
 	
