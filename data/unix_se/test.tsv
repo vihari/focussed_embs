@@ -1,0 +1,1710 @@
+0	something to convert a makefile . am to project in visual studio ( 2005 )	while connecting to hidden ssid , supplicant pae state=held
+0	character classes : construct my own	how do i format c while installing ubuntu ?
+0	ctrl-alt-f1 to f6 work differently for left and right sides of the keyboard	how to assign variable in awk
+0	how do i extract all subjects of a cacertfile with the openssl command line ?	track down process that has notty
+0	how long are debian stable releases supported ? like debian wheezy	how can i pass strings with single quotes to grep ?
+0	mysql restoration process takes longer time	is there any chance to run clearcase remote client under fedora 14 ?
+0	how to mount a nrg file on linux ?	is arp periodically called to check connectivity ?
+0	how to remap the context menu key to the super key	omxplayer playlist without black between videos at 1920x1080
+1	less or more - which to use when ?	is not less just more ?
+0	is there a difference between hardlinking with cp -l or ln ?	how to know if an irq value is free to use
+0	how to properly upgrade glibc ?	tcp buffers keep filling up ( recv-q full ) : named unresponsive
+1	sed with auto escape character	using a reference to a bash string variable in sed
+1	how does the syntax "${foo##* . }" work to get file extensions ?	how do ${0##*/} and ${0%/*} work ?
+0	how searching works in gnome 3.8 ?	how to put some keyboard layout aside from layout switching ring ?
+1	can linux systems on multiple virtual machines share the same swap partition ?	are there any side effects when two distros share a swap partition ?
+0	is there any command to enable/disable a php extension from command line ?	ioctl : invalid argument for hdio_get_identity
+0	making a progressbar with " dialog " from rsync output	is it possible to execute a vim script in a non-interactive mode ?
+0	limit disk buffer usage in sles 11sp2 to allow more efficient memory overcommit on esxi host	why am i having ghosting and tearing with the i3 window manager paired with xcompgmr when tiling terminals vertically ?
+0	how do i resize gnome shell top bar	how can i use tee to print the input stream ?
+1	resume input from user after file is read	make program first read from pipe , then from keyboard
+0	i have submitted my first kernel patch , what next ?	gallery of installed fonts
+0	does using epub2pdf pose a potential security risk ? is there an alternative ?	match a single character in a string bash script
+1	symbolic link path	find only destination of symlink
+0	best way to remove bytes from the start of a file ?	how to create my own linux distro ( say from ubuntu source code ) ?
+1	monitor keeps turning off after 10 minutes	disable screen blanking on text console
+0	dual keyboard shortcuts in gnome	how to find information about the system/machine in unix ?
+1	trouble with mv and adding the date	adding a time stamp when moving a file in bash
+0	chainload multiple grub2 bootloaders	how to specifying different ports for multiple host in cssh ?
+0	tcl vs . dsl vs . tty vs . feather - how to choose one over another ?	change the name of a file that contains spaces in the name
+0	delimiters of program arguments ?	unix command to return all files that end with single digit and txt extension
+0	bash function to scp a file not working	nfs sharing is read only
+0	ksh script to ftp multiple directories simultaneously	difference between " curl -xput --data-binary @${file_path}" and " curl -xput -t ${file_path}" ?
+1	run a cron job every minute , meaning of syntax	meaning of "* */1 * * *" cron entry ?
+0	service vs . initctl in ubuntu	eth0 and wlan0 set-up problem in linux mint
+0	not able to access my local machine from remote server ; what is my local ip address ?	search for man pages which contain all of the words ' foo ' ' bar ' and ' baz'
+0	what is the point of the ' operator ' user ?	capture output from command without interference
+0	adding a line in vim adds it at the line after the cursor , i would like to insert	how can i print out all but the last n characters in bash ?
+0	country flags icons	stop user being able to access live cd environment or recovery mode ?
+0	use search result in replace statement with vim substitute	line 4: $data : ambiguous redirect when using passwordbox
+0	prevent or detect reading of daemon in memory	why is my mmv command not overwriting the files ?
+1	add a suffix string to end of each line ?	merge files using zipper method / late merge
+0	rhel - permanently unmask all sub-folders and files	chmod + silent mode + how force exit code 0 in spite of error
+0	make all files under a directory read-only without changing permissions ?	how to mount a filesystem from a given usb bus:device
+0	how to avoid apache reload when rotating logs ?	other programs cannot connect to mysql
+0	xorg . conf . d not loaded when starting x while docked	why can not i sed two [ or more . . ] empty lines to one empty line ?
+0	getting error during installation of cross binutils in linux from scratch -7.5	how to get over " device or resource busy " ?
+0	debian package to install closed-source	how to list prerequisites externally in gnu make ?
+0	why does grep sometimes show the file name , sometimes not ?	iptables redirect in combination with matching on interface vs . ip address
+0	how do i allocate a key shortcut to moving gnome 3 workspaces up/down ?	performance implications of enabling sadc to collect system activity information
+0	zfs snapshot to file as backup with rotation	802.11ac support in fedora 20 ( or any latest linux distro )
+1	use grep with or	how do i grep for multiple patterns ?
+1	ssh connection establishment too slow	how to speed my too-slow ssh login ?
+0	submitting bug reports for arch linux	how do i install dvd-slideshow on centos 5 ?
+1	how to create a new user with restricted network access	how to restrict internet access for a particular user on the lan using iptables in linux
+0	php file recursive change array key on find	linux memory usage ?
+1	how to find files by the time in their filename ?	cleaner way to delete files on linux which include a datestamp as part of file name
+0	replacing multiple blank lines with a single blank line in vim / sed	how can i find the sort order for ls with my locale ?
+0	how to add all binaries to bash tab completion for some command ?	edit tree to output in custom format ?
+0	installing lispworks on rhel 6.5 workstation . error when loading application	is it possible to manually manage a solid state hybrid drive ?
+0	ncurses . h is not found , even though it is on the search path	which kernel module name is currently correct " usb-storage " or " usb_storage " ?
+0	cups - install once , use another printer ( of the same model ) without re-configuring problem	flash player not working for certain websites in debian 7.5
+1	"no such file or directory " on files that exist ?	getting " not found " message when running a 32-bit binary on a 64-bit system
+0	is there a clang-snapshot ?	test -n gives unexpected result
+0	multiple users on a desktop environment	why is ' while . . read . . < <eol ' performing variable expansion , yet <file and | do not ?
+1	added user supplementary group , but ' groups ( 1 ) ' not showing change	how to initialize `/etc/group` ?
+0	sort ls output by users	apf firewall & ipset
+1	passing filename with spaces to a shell script	looping through files with spaces in the names ?
+0	cpu fan extremely fast even with 0% cpu	selinux and trusted os - can selinux be confined to hardware level root ?
+0	x-based email for reading mail from cron jobs	iptables " iptables table `filter': table does not exist ( do you need to insmod ? ) "
+0	bad magic number	how to delete mails from queue of dragonfly mail agent ( dma )
+1	how can i filter those " permission denied " from find output ?	how do i remove " permission denied " printout statements from the find program ?
+1	why does the paste command add line breaks ?	directories are listed twice
+0	extract files from freebsd 9 iso	can not access ssh in my vm centos
+0	how to track down memory spikes ?	consistent network interface name ubuntu using pci slot
+0	tar not excluding directories with date pattern	how to setup permission for virtfs in system libvirtd
+0	illegal float value " error " c-shell	running viber as another user while using " mine " x server 's microphine and speakers
+0	how do i remove carriage returns from directory names ?	yum : how can i view variables like $releasever , $basearch & $yum0 ?
+0	how to delete a file on remote machine via ssh by using a shell script ?	tightvnc configuration - software version check
+0	header function with increasing number in bash	copy from linux to windows every minute
+0	how do open files behave on linux systems ?	cpufreq-set -g performance does not work on arch linux
+0	what is the best method to get gnome 2 in arch linux ?	how can i change what the command " apt-get update " looks for when executing the update ?
+0	get last set of non-empty lines	view a remote ubuntu desktop from windows 7
+0	how to create a screen lock timer for awesome wm ?	why inotify is unable to add watch
+0	why do i need gimptools to build makedev ?	jerky animations with gnome shell 3.12
+0	cups filter for a raw queue	min max buttons not displayed
+0	backtrack 5 r2 dual-boot w/windows 7 no longer loads	install init scripts manually under debian wheezy
+0	how to install cpp in rhel 6.3 ?	weird ssh issue , ssh works with -t but freezes without it
+0	how to use emacs to run matlab programs ?	help with giving group permissions to other user 's files
+1	how to remove the last character from every line in a text file	remove last character from line
+0	find first line beginning with following	how to autoplay ogg stream at startup of debian
+1	is it ok to store /var/tmp on a ssd ?	what not to put on an ssd ?
+0	preprocess packets send to/from interface	how to do domain filtering in linux ?
+0	shared lvm storage between kvm virtuals	where can i find the user documentation for my old freenas 0.7 ?
+1	how to switch to editing command in text editor	where is the bash feature to open a command in $editor documented ?
+0	using a differencing , aka overlay , aka union , file-system with commit capability	how to regenerate /var/cache/debconf on debian ?
+0	help searching in files for regex patterns , recursively , with specialized output	sed first n occurrences result set between 2 tags / patterns
+1	how to remove a file named "-f " from the command-line ?	how do i delete a file whose name begins with "-" ( hyphen a.k.a. dash or minus ) ?
+0	how to adjust numeric fields in a text file	check which network block devices are in use
+0	about escape with ssh pipe	use of ls with wc command
+0	does zip 's -u flag pay attention to deleted files ?	suse 12.1 autoyast , root password not set
+0	gcc cofigure error	sharing a local directory between local users with full permissions
+0	pipe find into grep -v	arch linux powerpc installation guide for absolute beginners
+0	linux , resolv . conf -- adding msdns and bind dns nameservers where msdns is not recursive ?	unable to generate ssh public key when installing redmine
+0	is there a way to create cow-copies in zfs ?	ssh authentication : either ssh keys or one time password
+0	bridged networking with kvm	what is a generic way of finding out whether the kernel has ext4 ( or other ) bugs ?
+1	executable not visible when run with sudo	what environment do i get with sudo ?
+0	yahoo messenger for linux	/usr/bin/host not picking up changes to /etc/hosts even after reboot
+1	extract given column from comma-separated values with inner commas and quotation marks	is there a robust command line tool for processing csv files ?
+0	linux sound : how does it work and why do i need to chain 3 architectures to use jack ?	how does linux system synchronize wtmp and /var/run/utmp ?
+0	cannot mount lvm2 partitions	block ssh to all but root user
+0	passing an argument to multiple commands in a single line	remote ls on multiple machines
+0	how to " bond " sshd to only a given interface ?	fastest remote x from windows
+0	shell script read separately columns from file	per process swapiness for linux
+0	simple queuing system ?	unable to get gnome desktop after installing from centos 6.5 minimal
+0	restart mysql server	how to install fedora live desktop 20 in windows 7 ?
+0	can not use ssh anymore after installing denyhosts	semi-asynchronous pipe
+0	building debian package fails at dh_auto_install stage	how to use cut command to get the first and last elements of a row ?
+0	change terminal resolution on whiite ( wii linux )	how to rotate video ?
+0	repeat the nth last command in vim	why can i not install ncurses development package ?
+0	is there a downside to ksplice ?	how to delete a specific line and the following blank line using gnu sed ?
+1	how to start tmux so that it will not get killed on exit in last windows ?	prevent pane/window from closing when command completes - tmux
+0	strange problem : join : file 2 is not in sorted order	to find file received time using find command in ssh server
+0	how i can know the ip address of other users logged at the same remote machine ?	different forms of executing a shell script
+0	bring up ubuntu desktop x11 forwarding	convert flac files to ogg
+0	how can we change root password ?	how do i make apt pick a certain package from a specific source ?
+0	locating mail users and setup for rt	why ubuntu and windows show different amount of free space
+0	csh : is there a prompt outside of $prompt ?	is there a way to check which process terminates first during reboot
+0	source script as command	skip search and replace after a heading in vim
+0	how to check how many lanes are used by the pcie card ?	wireless troubles with netgear wna1100
+0	what package has gnu sed for solaris ?	how do i scan grayscale with simple-scan ?
+1	trying to search inside chmod with command	find all commands with wh , find by part of keyword in man page
+1	how to check which hypervisor is used from my vm ?	easy way to determine virtualization technology
+1	building linux from scratch stuck , incompatible sed version ?	"no such file or directory " on an executable , yet file exists and ldd reports all libraries present
+0	zsh : excluding files from a pattern	generate gateway automatic through resolvconf & can not change my gateway
+0	how do you properly install steam on elementary os ?	bash script - need date command variable
+0	setup cloudmin on centos installed in lvm	terminating an infinite loop
+0	virt-install cpu0 unhandled rdmsr	why does this shell script fail in bash , but the commands work in ssh ?
+1	what is the meaning of this test expression [ ] ?	grep - why do brackets in grep pattern remove the grep process from ps results ?
+0	message after sudden shutdown	does ~ always equal $home
+0	how do i temporarily make weechat 's message area " full width " like irssi ?	kernel panic on " apt-get upgrade " with dwa-160
+0	madwifi vap ( and wlanconfig ) modern equivalent	shell : how to read the bytes of a binary file and print as hexadecimal ?
+0	is there any way to have console ( rogue ) mode programs take over only part of the terminal screen ?	gconf-warning **: client failed to connect to the d-bus daemon : unable to autolaunch when setuid
+0	execute script automatically at shutdown on fedora 15/16	customize the way stderr is appended to a file
+0	where is log file of gnome 3 ?	why would attempts to bind affinities for rcu kthreads fail ?
+1	funcname ( ) {} vs function funcname ( ) {}	difference between function foo ( ) {} and foo ( ) {}
+1	efficient way to print lines from a massive file using awk , sed , or something else ?	cat line x to line y on a huge file
+0	os-prober not detecting arch install	failed to load session ubuntu and to fetch . archive . ubuntu . com
+0	how can i write a driver for an asus trackpad on linux ?	i am getting nova issue when i ran #nova image-list
+0	any ideas to simplify the awkward rsync expression below ?	no locate . db even after running updatedb
+0	linux vm ware + ifconfig	how copy and rename files found in " find " function linux ?
+0	drm kernel v> 3.11 issues	keybinding in xterm to shift one line up using shift+up
+0	list all open ' . log ' files in *nix	how can i tease sonicwall ?
+0	nfs server dropped connection momentarily , now df , ls , and umount all hang	can not initialise/detect 16550a uart at unusual io port address
+0	kill process spawned by ssh when ssh dies	vim - store a backup before each write
+0	what are software and hardware interrupts , and how are they processed ?	how to install mumbojumbo games on mint ?
+0	join files with numbered index	what kind of support/options are there for switchable graphics on linux ?
+0	how to restore the partition layout for gpt disk	remove icons in gnome application menu
+0	how extreme-coupling in unix-like oss can be acceptable ?	how do you layout extra storage
+1	the difference that quotation marks make in find command	why does not ' find ' show this file ?
+0	upgrading linux ( fedora ) with luks encrypted volume	running gui application as another ( non-root ) user
+0	which shell will sudo use to execute a shell script without the shebang line	file descriptor problem with looping bash script
+0	automate workflow in shell	why does sudo ignore aliases ?
+0	is it possible to show mathematical symbols in the terminal ?	linux mint booting to black screen
+1	udev : running a shellscript that accesses an x display	can i launch a graphical program on another user 's desktop as root ?
+0	linux 's man alternatives	can a linux distro be closed source ?
+1	ubuntu directory permissions - sticky bit - prevent deletion of a file	is there any way to prevent deletion of certain files from user owned directory ?
+1	install single debian experimental packages ?	installing two glibc alongside in debian/ubuntu
+0	how to tell sudo to repeat lecture once ?	export terminal display to pdf
+0	weston global configuration	how to purge dbus configuration ?
+0	how to resize application windows in an arbitrary direction ( not vertical and not horizontal )	having issues installing kali linux in virtualbox
+0	how to lock users after 5 unsuccessful login tries ?	gnome shows workspace before showing the login screen
+0	samba daemon hammering cpu on centos 5.6 vm on bootup	why is `tac file | grep foo ' ( piping ) faster than `grep foo < < ( tac file ) ' ( process substitution ) ?
+0	getting data section with maximum element	how to override custom mouse cursor with xcursor ?
+1	returncode of command in a pipline	get exit status of process that is piped to another
+1	how does one view what the contents of symbolic link are , instead of the destination ?	dynamic symlinks
+0	what is the difference in cpu utilization between ' ps aux ' and ' ps -ef ' ?	headlessly compiling and uploading arduino programs on an armhf platform
+1	how to duplicate values of each row under each for n times ?	repeat each line multiple times
+0	is it possible to compile a full linux system with intel 's compiler instead of gcc ?	delay debian wifi networking auto-connect until after x and other applications are started
+0	modify $readline_line and $readline_point values inside bash script	removed /var/lib . can not open desktop
+0	ntp with networks isolated	how do i know that my virtual guest is using vt-x ?
+0	delete subfolders without deleting parent folder	history of bash globbing
+0	debian : change gnome classic places menu for all users	closing the unwanted file descriptors
+1	shell saves ip address that you ping ?	how to access the history on the fly in unix ?
+1	ubuntu- how do i change clock speed from terminal ?	overheating results in system shutdown
+1	can i use several pipelines as a argument ?	diff the output of two `awk` commands
+0	where to create virtual link for chroot ?	a local , centralized , secure way to store ftp login data , including passwords
+0	proxycommand without socat , nc or bash 's tcp redirection ?	conky infobar alignment left and right
+0	can ssl folder be removed without causing conflict	/etc/shadow & gawk
+0	fedora core yum update keeps hanging	tasklet and interrupt handler synchronization
+1	how to find files by the time in their filename ?	unix - how to fetch files based on the part of a filename that is date
+0	bind mount /var with fstab	how do i cat a command file ?
+0	how to find out the file offset of an opened file ?	generating random noise for fun in /dev/snd/
+0	how to make firefox read stdin	use rsync with http
+0	ctrl-alt-f1 not working from x	where is my eth0 configuration on wheezy
+0	why does debian include " cdrom " in sources . list ?	how do i configure pulseaudio for 7.1 surround sound over hdmi ?
+1	debian wheezy re - installation	how can we change root password ?
+0	what do the channel numbers in ssh error message refer to ?	setup fetchmail/exim4 to download from gmail account and forward to another email address
+0	screen toggle windows does not work with custom command key	why yum 's download speed is too slow
+0	is there a way to prevent emerge --sync from deleting files from the portage tree ?	xterm does not switch directory when it is moved
+0	what is difference between gtk and qt applications ?	what should i use when cut does not cut it ?
+0	copying specific subfolders with directory structure to a new folder	rolling snapshot of pictures taken in the last half hour
+0	ls and vim color on sunos 5.8/solaris 8	what is the difference between qsub and . /
+0	raid5 recovery trying with " mdadm --create . . . missing"	auto-detect headphone jack
+0	connecting to a machine which is behind a university gateway	sound crackles and echos to the point of being unusable
+0	recursively downloading all files from a website 's child directory using wget	installing audacity - package problems
+0	convert audio to text	linux mint 64-bit kernel panic on boot
+1	manually generate password for /etc/shadow	how to create sha512 password hashes on command line
+0	limitation on count of records returned by ls -lrt	terminal , prompt changed to "-bash-4.2" and colors lost
+0	how to split stdout to go to several output files ?	howto chroot to bsd
+0	how can i split a file into multiple files based on pattern using perl ?	permanently changing the ownership ( or group ) of lvm volume
+0	convert formatted dates to seconds since the epoch	dd-wrt : dhcp6c not fetching new address for ppp0
+0	postfix , smtp server , phpmailer	raid1: how to synchronize harddisks ( debian 6 )
+0	what are the relative merits of the various standard unix archival utilities ?	combining sed statements
+0	how to find out which program can open a given file ?	how do i copy multiple files by wildcard ?
+0	how can one make a laptop remain pingable and continue running its daemons even after the lid is closed ?	how to change font-size , number of rows / columns on a terminal
+0	shell script : whole directory to the remote ftp server	dualboot freebsd + gentoo with grub2 [ mbr ]
+0	invalid event in x11	how can i configure two mails for two different users in ubuntu
+0	is there a way to completely disable outbound opportunistic tls support in sendmail ?	how can i create a multi-boot usb using livecd-tools ?
+0	how to cut by tab character	is there a way to execute a native binary from a pipe ?
+0	sendmail cannot write /var/spool/mail/root	how to subtract rows ( lines ) with awk
+0	qstat error in eqw	does bios read directly the bootloader or load it into ram ?
+0	virtual memory usage exceeding physical drive space	strace got message --- sigio ( i/o possible ) @ 0 ( 0 ) ---
+0	writing a script to kill a process for a user ?	print a string including single quotes and other special characters
+0	where do i find messages regarding last failed linux boot ?	how do i compile the linux kernel version 3.16.1 to run in slackware 14.1 ?
+1	umask base permissions on usb drive	cannot delete a file - permission denied - why ?
+1	keyboard shortcut to copy current command from terminal to clipboard	how to share the clipboard betwen bash and x11
+0	untar specific file to present date in linux	automatically update gcc to a later release without upgrading distribution
+0	how to get notification from upower when ups is on battery	linux fedora : can i preserve what i am doing so that everything will be restored when i power up again
+0	new users can not log in via gui	difference between initramfs . cpio and rootfs . cpio
+0	postfix queue file write error only when sending emails from smartphone	how to reduce disc access ?
+1	tricks for avoiding bash history logging ?	temporarily suspend bash_history on a given shell ?
+0	how to safely pass variables to root-enabled scripts ?	how is it that missing 0s are automatically added in ip addresses ? ( `ping 10.5` equivalent to `ping 10.0.0.5` )
+0	understanding tc qdisc and iperf	how to run hello world in maemo
+1	resume bash session in new tmux or screen ?	how can i disown a running process and associate it to a new screen shell ?
+0	can linux " run out of ram " ?	bash_completion
+0	is it possible in bash , to start reading a file from an arbitary byte count offset ?	how to check for a folder inside a particular folder in shell script ?
+0	uncover sudoer user with root privileges which ran command x ?	last modified with grep
+1	delete all jpg in a folder that are smaller than specific width/heigth	find images by size : find / file / awk
+0	sudo -e cannot excute some commands located in home dir ?	how does xrandr identify/choose which resolutions to offer ?
+1	recursively move all mp3 's in a directory	move all files with a certain extension from multiple subdirectories into one directory
+0	silicon wave usb bluetooth adapter does not work	openbox menu . xml : keyboard accelerators possible ?
+1	how to set the tmout in putty	how to make putty to not break my session after some time ?
+1	how do i get the nc command to end after 2 seconds ?	run a command for a specified time and then abort if time exceeds
+0	thunar file manager : sort by column keyboard shortcut ?	irssi parse chat messages
+0	understanding arch linux release cycle	re-set $tmux after unsetting
+1	how can i set the tty font size manually in lubuntu ?	can i change the font of terminal ?
+0	what are some ways to update symlinks when the dir they point to are changed ?	how to run parallel processes and combine outputs when both finished
+0	search for a file inside a tar . gz file without extracting it and copy the result to another folder	what is unix for the openvms dump command ?
+0	recursively rename e-mail files from . txt to . eml	how to specify the forwarding port when using multiple tsocks services ?
+1	should i use lvm or not ?	should lvm partitions be used in virtual machine images ?
+0	unable to change resolution on fedora 18 after playing urban terror	how can i install policykit with system v ?
+0	what is the difference between > and > > ( especially as it relates to use with the cat program ) ?	why would typing ctrl+c twice stop a running process in linux ?
+0	can i limit connections per second for certain useragents using ufw ?	how do i enable ipv6 inbound traffic to get forwarded to my machine ?
+0	can not save / load iptables rules on arch linux via rc . d	where to put wrapper scripts ?
+1	rsync and take name/path changes into account	any way to sync directory structure when the files are already on both sides ?
+0	in what situation would a tarball ( . tgz ) be almost the same size as the original	unzip all non-existing or older files from archive
+0	keyboard triggering mouse events on debian on macbook	black and white ( greyish color ) console and x11
+0	linux find wifi networks trotocol ( a/b/g/n ) version of all available access points	kvm/qemu linux guest vm wont boot
+0	some gui programs hung up	the current path of a process
+0	why does centos not have an ntp drift file ?	alsa driver update in client machine without make
+1	is linux bad at handling misbehaving programs ?	how to create a user with limited ram usage ?
+0	disable repository updating in fedora	mount ntfs image file created using partimage
+0	why does `xdg-mime query filetype . . . ` fail to find a new added file type ?	how can i expand a relative path at the command line , with tab completion ?
+0	how to use super-l instead of alt in xfce for resizing/moving windows ?	debian 7 on macbook
+0	how to find human-readable information about file types recognized by `file` ?	su to another user using ssh keys ?
+1	how to adapt a linux like fedora , ubuntu etc . to make my own linux distro ?	how do you properly fork a linux distro ?
+0	copy file permissions from user to group	how can i configure cgroups to fairly share resources between users ?
+0	checking mail and running a script without downloading	removing " [ crap-like-this ] " from strings using bash parameter expansion ?
+0	is it possible to transfer files in a date range via ftp	where do i download vine linux for powerpc ?
+1	alternative shells ( javascript , ruby , etc ) ?	object-oriented shell for *nix
+1	why does a working standalone nested function/script not work inside a larger script ?	command substitution in for loop not working
+0	unix read -p command causes bash error , how do i fix it ?	tcsh/vi-mode behavior difference between solaris and linux
+0	automating minisat solutions	how can i get the wall clock time of a running process ?
+0	ffmpeg stream will not show up on justin . tv	behavior of filesystem when mount option has been specified as error=panic
+1	bash script var not changed after the loop	why is my variable being localized in one ' while read ' loop , but not in another seemingly similar loop
+0	how is /proc/self implemented in linux ?	timeout does not work in expect script
+0	how to edit files in-place while performing operation on the values matching the searched pattern ?	sco unix run interactive script when sending a print job
+0	how can " several file nodes " be associated with a single inode ?	iinstallation of kali linux under dual boot in win-7
+0	ssh connection establishment too slow	read-only file system error while creating a directory ?
+0	qlogic 42c1831 hba drivers on rhel 4.8 ? using kernel 2.6 . x	php shell_exec ( ) permission on linux ubuntu
+0	kate vs vim/emacs regarding speed	emacs can not open display
+1	bios do not recognize my bootable usb	bootable usb appearing as hdd not removable device
+0	total amount of memory usage by a single process	cal no space delimiter
+1	how to find out the content of a xml file using unix sed/awk ?	parsing xml 's , json 's and newer data file formats in unix using command line utilities
+1	setting up network from a " minimal " centos 6.4 install	centos no network interface after installation in virtualbox
+0	software raid 10 + lvm on mixed drives , sector alignment ?	rc . subr can not access file ?
+0	install specific version of x11 for xmonad ?	how to execute grep in tcl for getting xyz-123 type pattern
+0	trimming one part if equal to another part ?	pidgin replace my symlinks
+0	how does one view what the contents of symbolic link are , instead of the destination ?	how can i enforce quotas on roaming user profiles using samba ?
+0	breaking from a program running in an interactive session in a screen window	how do i create an rpm package that would fail a yum transaction if certain creteria are met
+0	why does not gcm https work with nginx ?	vim : pasting lines line by line
+0	getting disk i/o statistics for single process in linux	setting system timezone based on a timestamp
+0	yum : assume yes if install size < 1mb	the proper way to turn off an external sata encolsure ?
+0	do links to /tmp files get deleted ?	what does the bind bindkeys-file directive do ?
+0	can a program detect it is running in a detached screen ?	configuration ethics ( esthetics ) : /etc vs $home
+1	why is the first line comment of . sh file necessary ?	shell scripts are still working without # ! ( sha-bang line )
+0	how can i list my `at` jobs by date ?	my computer beeps while copying files
+1	write a zsh method the responds to a `cd` command	execute bash scripts on entering a directory
+0	how to connect internet in zedboard using linux via sdcard	shell attempts to interpret perl script in spite of correct shebang
+1	linux kernel with absolutely no virtual memory	how to completely disable swap ?
+0	awk special character	delay to get password prompt when ssh'ing to a public server
+0	how to know what packages i am missing ?	how to install package via yum in fedora
+0	how to add a path to system $path for all users 's non-login shell and login shell on debian	how do i run my native `pacman` against a mounted image ?
+0	recursive search does not work for grep on solaris	all domains missing after plesk parallels upgrade from 11 to 12
+0	what is the use of " magic arguments " in linux reboot system call ?	embedded linux power failure issues
+0	bind server does not recognize my zone properly	exclude commands from user 's sudo permissions
+0	is there any media player that can browse shoutcast streams ?	wan interface using his own queues for qos different that the provided by linux
+1	what is > > symbol and > & in unix/linux ?	what is the difference between > and > > ( especially as it relates to use with the cat program ) ?
+0	samba 3.5.9 - join domain specific ou - net join ads	install the roboform lite extension in debian wheezy iceweezel
+0	evince fails to start because it cannot read . xauthority	temporary restore lvm snapshot of root
+1	is there a mechanism to run a " service " by a non-root user ?	keep ssh sessions running after disconnection
+1	file modified while doing scp/cp	what happens if a file is modified while you are copying it ?
+0	kgdb not returning control to gdb	is my usb hard disk dead ?
+1	redirect all stderr of a console and subsequent commands to a file	redirect all subsequent commands ' stderr using exec
+0	gtk2 , gtk3 or qt for lxde optimized application	what does the ( ! ) mean after uptime on htop
+0	php mail not working in rhel server ?	how can i start a cronjob 1 hour later each day ?
+0	return status of `cd` is always 0	linux stdbuf - line-buffered stdin option does not exist
+0	setserial /dev/ttys4: cannot set serial info	turning off swapping for only one process with cgroups ?
+0	running makefile results in "/sbin/modprobe : invalid option -- ' l'"	can i cd or use hot directory in shell link in mc ?
+0	how to guarantee availability of $bash_env	nmap too slow with a network that can not access to internet
+0	socksifying a qemu-kvm using tsocks	how can i install the `ll` command on mac os x ?
+0	set verbose prints unrelated extra lines	why does vpnc not block the lan interface ?
+0	how to replicate ( fork ) the current terminal	command for joining a series of files together
+0	auditing of symlink/symlinkat syscalls does not work here	revert custom launcher icon to default in gnome 2/mate
+0	using sed with herestring ( < < < ) and read -a	redhat / centos 7 firewalld best practice for pptp or l2tp/ipsec rules
+0	how is my domainname determined ?	tmux hightlight colour setting
+0	clear the screen and show a banner	is there a linux distro that uses jack audio server all the time ?
+0	replace words in file using sed command	how is /etc/fstab accessed before root is mounted ?
+0	key binding of the menu key	change the dns server in etisalat usb modem
+0	what does dd stand for ?	how can i set up virtual hosts in centos7 ?
+0	mount a folder on a drive in fstab . move ?	is making /var/log directory read only on debian linux safe ?
+0	file system crc check	point folder on main hdd to newly mounted 2nd hdd
+0	how to check which specific processes ( python scripts ) are running ?	apache fails to start after changing cert and key
+0	is there a javascript shell ?	kickstart is frozen at 100%
+0	how to provide a " guest lan " on one ethernet device	is it possible to attach `kinit` to the first attempt to `ssh` without a kerberos ticket ?
+0	why does `man -k cron` say `vixie-cron ( rpm ) ` for some results , and how do i read those pages ?	how to disable flareget from firefox ?
+0	“tshark : there are no interfaces on which a capture can be done” in amazon linux ami	change value of usb " max_sectors " for an entire family of devices
+0	how do i turn on http compression ?	can not reach dns through wireless router
+0	forward outgoing traffic port using iptables	putty connection failing from home network
+0	how to get cron to delete files with names starting with foo and file extensions ending with bar ? - done with php script	configure cent os 6.4 so that desktop persists after closing vnc session ?
+0	the usage of < /dev/null & in the command line	ignoring files that find cannnot search or open ?
+0	print lines if pattern is not matched	same file with different content on every read
+0	do the parent directory 's permissions matter when accessing a subdirectory ?	loggedfs configuration file syntax
+0	how to add unity-greeter in debian wheezy with gdm 3	what is the easiest way to find an unused local port ?
+0	how do i set up an ipv6 tunnel in fedora ?	how to add a timestamp to each line of a logfile ?
+1	can any one suggest good linux os tutorial ?	linux kernel : good beginners ' tutorial
+0	how can i install policykit with system v ?	two hdd installation
+0	can we install puppet without touching the servers ?	how was ntfs-3g created ?
+0	should i file bugs upstream , to my distribution maintainers , or both ?	how can i know when a cron job was killed or it crashed ?
+0	archlinux & openbox - greyish win 95 applications	good practice to use same ssh keypair on multiple machines ?
+0	how can i automate the change between a python script and a nohup python script ?	how to copy symbolic links while preserving the validity of the link ?
+0	why is my sd card not being recognized ?	using `kill -s 0 $pid` vs ` [ [ -e /proc/$pid ] ] ` to detect if pid is running
+1	bash script - determine vendor and install system ( apt-get , yum etc )	how can i reliably get the operating system 's name ?
+0	where to submit new mimetypes ?	are there foreign language terminal command sets ?
+1	given a csv file , how do i delete the content between the 2nd and 3rd tabs of each row ?	how to manipulate a csv file with sed or awk ?
+0	how secure is keeping non-root owned scripts in /etc/init . d ?	freebsd : getting pkg_add to use stable packages rather than release packages ?
+0	use sudo tee with heredoc to append to existing file	tools to manage a custom installation prefix for software compiled from source ?
+0	is the unix programmers manual relevant for linux ?	why could mount . cifs mount an empty folder ?
+0	no route to host using ssh	what the "+" and "-" buttons do in pantheon-files ( files manager in elementary os ) ?
+0	init process : ancestor of all processes ?	fdisk vs parted
+0	how to setup git server on linux container in debian	simple qos configuration with prio qdisc is not working
+1	how to make sudo accept password automatically without prompting for it ?	how to run a specific program as root without a password prompt ?
+0	daemons not starting during the boot on puias ( redhat ) 6.4	how do you set a vlan priority on a nic in freebsd ?
+0	command-line password manager that uses ssh key to authenticate	how to get pass a localisation issue when setting up a maven project ?
+0	delete subfolders without deleting parent folder	ssh authentication : either ssh keys or one time password
+0	centos 5.5 network problem	vmap fedora 12 equivalent
+0	excluding files in etckeeper with . gitignore does not work	what is status of btrfs as root fs ?
+0	hard drives goes missing until reboot - what can be the cause ?	unable to start apache
+0	how do i resolve an apparent hanging update process	dell d610 6.5 centos installation - undetected network adapters
+0	auto-detect headphone jack	run windows program on linux in a secure way
+0	can i configure my laptop 's touchpad to only do scrolling ?	conflict between cron . deny and allow who wins ?
+0	installing ipsec on freebsd	how to have find on a directory with a changing pattern ?
+0	tool in unix to subtract dates	trying to use an old pc for home theater pc
+0	how do i run a program only once per day , while accounting for variable uptime and possible failure of program ?	notational velocity on linux ?
+0	gnome panel missing application icons , chat bubble menu , and power menu	command line to return to the gui after ctrl-alt-f1 ?
+0	fedora 20: how to navigate to windows partitions via commandline ?	compare the contents of dynamically generated archives
+0	identifying open and closed server ip address/ports	windows 7 guest fails to boot on fedora 20 host
+1	what do square brackets mean without the " if " on the left ?	using single or double bracket - bash
+1	logging violations of rules in limits . conf	logging when limit exceeds
+1	is there way to replace value of symbolic link ?	how can i edit symlinks ?
+1	extract only a specific folder contents from a zipped archive to a given directory	how can i force unzip / zip not to create a subdirectory when i extract it ?
+0	using sf probe to make u-boot faster	any way to cat few lines of man page to show on stdout for reference ?
+0	difference between ' sync ' and ' async ' mount options	find the top 50 directories containing the most files/directories in their first level ?
+1	parameters of script	how do i handle switches in a shell script ?
+0	consistent network interface name ubuntu using pci slot	/var/adm/wtmpx : value too large for defined data type
+1	removing in interactive mode	scripting `rm` and `rm -i`
+0	is it possible to get uid table in linux ?	how do i load modules at startup in a certain order ?
+0	explanation of the default debian sources ?	ubuntu how to re-install bootloader
+1	why bash history overlap the prompt when scroll up in the history ?	why is my bash prompt getting bugged when i browse the history ?
+0	how do you move files into the in-memory file system mounted at /dev/shm	installing android-x86 on a usb ( not creating a live usb ) ?
+0	linux kernel 3.2 syscalls	how to disconnect a server from ldap
+1	is it possible to transfer a running process to your terminal ?	how can i disown a running process and associate it to a new screen shell ?
+0	how do i enable rsync in libcurl ?	copying files with a specific pattern
+0	critical messages from gsm and gtk	compare versions of the same package in different repositories ( i.e. . stable vs backports ) using apt-cache show
+0	ubuntu precise -- suspend wedges gdm -- help !	how can i go forward in a file ? what is the oposite of ctrl+o
+0	how to join vcards lines	how can i clear the list of recently accessed documents in fedora ?
+1	reasons to partition an encrypted ssd	should /usr and /home be on different partitions ?
+0	how do i resize a partition in ubuntu linux without losing data ?	is there a way to renice the network stack ?
+0	is there a command-line email client and auto-download attachment to a file ?	help with giving group permissions to other user 's files
+0	shell script and crontab to capture file size , name and date in a csv file and then send via email ?	what does lo in iptables mean exactly ?
+1	( standard_in ) 1: parse error	why is variable interpolation not working for variable assignment ( for bash ) ?
+0	kernel panic in fedora 18 after updating to kernel-3.9	pendrive distro
+0	"nfs not responding still trying " error timestamp	at what frequency is /var/log/wtmp updated ?
+1	login retrieval in osx	mac os x darwin : how to reset admin password ?
+0	difference between a . out and . /a . out	change the highlight color in elementary os
+0	wildcards inside quotes	would this luks lvm rsync restore method work ?
+0	cannot install fedora 18	debian server does not show in dhcp list on router
+0	permissions on a mounted nfs share	keyboard shortcut to launch nemo
+0	can we separate commands in lfs ?	does linux support mac os partitions format ?
+1	how to download files from a remote linux ( ubuntu ) server ?	copying files from unix to windows ?
+0	how can i set a top limit for the pcm value when changing the loudness with pulseaudio ?	why do you need screen/tmux to keep a remote program running
+0	how to configure external usb touchpad for a laptop	most lightweight distro that runs libreoffice writer
+0	how to grep for text in a file and display the paragraph that has the text ?	ata_piix driver source code
+0	how to install google chrome with apt-get ?	telnet : connect to address 127.0.0.1: connection refused
+0	decoding " prog > file 2> &1"	how to test the difference between using disk encryption or not ?
+1	how to empty a log file ?	empty the contents of a file
+0	what is this vim plugin ?	what happens if a file is modified while you are copying it ?
+1	what is the meaning of ps process names printed in [ ] such as [ cgroup ] ?	what do the brackets around processes mean ?
+1	how to auto-start my bash_profile ?	. bash_profile not sourced when running su
+1	multiple media convertions fail	strange errors when using ffmpeg in a loop
+0	resume interrupted copying process	linux compability file system
+0	why will not my x server will not start as a regular user ?	can not receive mails to thunderbird via postfix local server
+1	whys is there extra dot at the start of some command i am supposed to execute	using ' . ' to execute files in bash
+0	why does the file command say that elf binaries are for linux 2.6.9 ?	midnight commander : rules for accessing archives through vfs
+1	what happens to argument in alias after using it once ?	bash aliases/functions and command line options
+0	less-than sign after done in a shell script	installing php phalcon extension
+0	how to switch directly to a pane in tmux ?	bash command in string is executing when i create the string , not when i use it later
+0	colored prompt in kornshell	conditional expression and expansion
+0	how to run 32-bit applications on 64-bit slackware ?	does replacing windows with fedora still work in windows 7 or do i need to do dual boot ?
+0	how to remember window location metacity ( always on visible workspace )	how to copy partioning information with dd ?
+0	using source routing ( lsrr ) - any ideas ?	using sed to edit lines in a file with a variable
+0	installing a secondary drive in centos 6	can i automate mounting a cifs share without storing my password in plaintext ?
+0	secure foss alternative to skype on linux & openbsd ?	is it ' possible ' to transfer a vm to the metal ?
+1	linux efficient command to find if 32 bit/64 bit	32-bit , 64-bit cpu op-mode on linux
+0	find usage with -l	how do i change the grub default boot ?
+0	aix synchronize directory	having difficulties mounting a rootfs for an embedded linux
+0	display the function body in bash	basic linux os with gnu apps and twm
+0	script ends abruptly with a terminated message	how do i see what symlinks exist for a given directory ?
+1	splitting stdin to different outputs in bash	is there a way in bash to redirect output and still have it go to stdout ?
+0	move web directory to raid array	testprintenv:error while loading shared libraries:libodbc . so . 1: cannot open shared object file
+0	ephemeral port : what is it and what does it do ?	stitch two jpegs together into a pdf
+1	vlookup function in unix	how to look the value of thedata by lookup index ?
+0	ldconfig not finding libprotobuf . so	a set of libraries like ncurses in a shell script
+0	how do i attach my lvm raid 's to a new ubuntu install ?	digital audio between intel atom e640 and adau1445
+0	prevent ssh client passing term environment variable to server ?	pxe insallation
+0	can i have conditional statements , based on server , in . htaccess file ?	other programs cannot connect to mysql
+0	provide sftp read/write access to folder and subfolders , restrict all else	ssh to linux container from other machine
+0	generate a key ( number ? ) based on part of the machine 's hardware components	configuring centos apache server to default to a specific port for expressjs and node
+0	is there anything in unix crontab to determine this should be executed in pst/cst standard time ?	get user login name and address on bad login attempt [ dovecot ]
+0	is there a standard posix way of doing `tac`	no sound in ubuntu 13.04 i386
+0	copy-paste for vim is not working when mouse ( :set mouse=a ) is on ?	use awk to find all ports for each ip that have https open
+0	gdm not showing when i boot my freebsd system	shutting down from x without a desktop environment
+0	gnu scientific library linking	adding " random number entropy " for gpg keys ?
+0	virtualbox complains that i do not have headers	counting multiple patterns in a single pass with grep ?
+1	how can i make a puppet module that fixes time ?	time synchronization of machines on lan to gps ntp server on the lan
+1	what is the meaning of $* in a shell script ?	what is the difference between $* and $@ ?
+0	how can i get wireless and ethernet to work with ubuntu ?	what does this regular expression do ?
+1	error not a valid identifierd when executing shell script	trouble with read line script in cygwin
+0	centos apache virtual hosts definition	calculate sum of squares using shell script in perl/awk
+0	can the kernel be moved to a different mtd while the system is running ?	route a particular process over another gateway
+0	is there a grep switch that reads a file for filter terms ?	relation between " block size"and " upper limits " in ext2
+1	sox returns an error when i try to handle mp3 files	sox returns an error when i try to handle mp3 files
+1	want to dual boot mbp with linux	what should i be aware of when installing linux on a mac ?
+0	one ubuntu machine in lan cannot access internet	configure python to include another directory when looking for packages
+1	use same arguments with different command	persistent shell arguments
+0	xmonad : some apps do not start in workspace which i defined in config	terrible performance on linux mint 16
+0	wireless issues with linux mint on macbook pro	show colors and disable line wrap
+1	delete all files except certain subfolder	how to copy some , but not all files ?
+0	book on how linux works from an administrator 's point of view ?	lock file from being edited or deleted
+0	theme looks different depending on location in fs ?	are limits . conf values applied on a per-process basis ?
+1	what are the numbers after program names in linux/gnu documentation ?	what do the numbers in a man page mean ?
+0	what does ampersand mean at the end of a shell script line ?	how to divide the output of one command by the output of another ?
+0	ms core fonts download ?	how to replace a hyphen with a word
+0	very weak wireless connection on debian live image install	strip specific option from a response in dhclient
+0	small distributed computing cluster	using ip addr instead of ifconfig reports " rtnetlink answers : file exists " on debian
+0	how to copy files within a remote server ?	compression level mksquashfs
+0	what does ^d mean in ls -l | grep ^d ?	changing the date format of auth . log
+0	configuring what commands xfce4-session-logout runs	autofs does not mount shares on startup
+0	init 0 process is not starting	how to capture data transferred on a pty ?
+0	virtual box debian guest with nat & host-only adapters : ' no route to host ' when trying to access host from guest	combine two commands in . bash_profile
+1	is there a standard posix way of doing `tac`	how can i print lines from file backwards ( without using " tac" ) ?
+0	how to create an initrd image on opensuse linux ?	scripting error after bc command
+0	"can not cd to /home/user " when sourcing a script	duplicity causing rootfs to fill up with deleted files
+0	glx extension not working properly with xvfb	why , when and where is phy used
+0	how is a graphical application started from a bash session connected to that bash session ?	safenet authentication client tools error when reboot or restart the etsrv- and pcscd-services
+0	unclaim a device	find duplicate file names with specific matching pattern
+0	partitioning efi machine with two ssd disks in mirror	test ftp username and password
+0	ddrescue extremely slow on usb hard drive	ksh if with several conditions
+1	how to test what shell i am using in a terminal ?	how can i check which shell i am currently using ?
+0	smartctl retest bad sectors	how can i add invisible watermark to images on commandline ?
+1	how to restore the partition layout for gpt disk	how to copy the partition layout of a whole disk using standard tools
+0	how to determine why my computer crashed ?	x11grab from another display server
+0	how can i install my webcam on debian ?	tcpdump filter with certain file types ?
+0	bash : `-su : $*: unbound variable` with `set -u`	how can i make iptables service start automatically after reboot on cenos/rhel7 ?
+0	add a new user steps for oracle linux 5	machine readable number of updates ? alternative to /usr/lib/update-notifier/apt-check ?
+0	newly compiled kernel not booting up ( vanilla kernel 3.12.14 )	how to install c++ compiler for eclipse
+0	how can i view the list of packages that were " suggested " by apt ?	software for very simple editing of advanced . psd files
+0	have someone ever audited the default openwrt firewall rules ?	allow su without password for users in a particular active directory group when using pam_winbind
+0	copying a single file to multiple directories using cp	user permissions problem linux
+0	how can i resize my root partition in debian ?	evolution keeps disappearing ?
+0	merge chunks from multiple files	does "226 transfer complete " guarantee the consistency between local and remote files when using ftp ?
+0	does sed write to the file or give a sample output	need a programmers advice on *x display manager , window manager and composit manager combination
+1	how to lock users with pam in scientific linux 5.5 ?	how to lock users after 5 unsuccessful login tries ?
+0	parse log file for value changes	nvidia , compiz and desktop effect problem
+0	apf firewall & ipset	where is browser . js file in firefox in rhel ?
+0	change regular user 's password with root access	getting sublime + xdebug to work on debian
+0	mint 15 on lenovo g700: wired internet not working ( atheros qca8172 )	cpufreqd does not control temperature plus shows no output
+1	how to easily build your own linux distro ?	how to start a new linux distro ?
+0	why does my fedora 14 system with an intel mobile gme965/gle960 integrated graphics controller come up with the wrong aspect ratio ?	does grub install itself on every disk ?
+0	cannot scroll terminal in fedora cli	chcon : can not apply partial context to unlabeled file while installing nagios with selinux
+0	how to create a read-only snapshot in lvm , and then rollback to it after some work ?	how an application is chosen over others to open a particular filetype in linux
+0	switch between two installs of one program	ubuntu 14.04 hard drive partitioning help wanted
+0	recovering truncated file	linux - how to open a console and display command results on startup ?
+0	what does < < < mean ?	merging all files into one file ?
+1	file owner not able to renounce the ownership to root ? but root can !	why can not a normal user `chown` a file ?
+0	debian 6 installation dvd required	automate file transfer from windows to unix
+1	need to move files to different folder based on the creation date	how to list files that were changed in a certain range of time ?
+0	generate “item tag” pairs from “item , item , . . . |tag” lists	allow user access via ssh to /var/www/
+0	is there any danger in changing the labels of my hard drives ?	xmodmap configuration reset after time
+1	how many clipboards are in system ?	cut + copy + paste in linux puppy wary
+0	how to use `~/ . ssh/config` setting for each server by `rsync`	how to split the terminal into more than one " view " ?
+0	symlink with @ symbol ?	arch linux installation problem
+0	permissions issues with mounting remote server into a specific folder	wan interface using his own queues for qos different that the provided by linux
+0	alternative to watch which support colors	how do i decrypt a message using openssl 's cli ?
+1	why do *nix filesystems support file names with newlines ?	newlines in filenames
+0	how to have pam_exec run the script as the current user ?	copy over existing files without confirmation ?
+1	how to check where users come from ?	obtaining remote host name in bash script
+1	insert text in a file using echo command	redirecting stdout to a file you do not have write permission on
+0	jump to the first position of text " "	how to connect to ssh-server running on embedded linux without /etc/passwd ?
+0	how do i grep for multiple patterns ?	how to auto highlight comments in nano ?
+0	how to grep including single quote in a file	how to make executable of all files excluding a few file types ?
+0	how to measure traffic on openwrt 12.04	error loading shared library libsdl-1.2
+0	how to determine why a machine is running slowly ?	tab-completion within for loops not working
+0	text processing - join lines with commas	xargs line too long
+1	automatically save bash command history in screen session	preserve bash history in multiple terminal windows
+0	how to use grep/ack with files in arbitrary encoding ?	find last edited date of file ( strange exec behaviour )
+0	remote support software linux to windows , like teamviewer	debian listing packages that are recommended by already installed packages
+0	git - remove deleted files	acpi , pm-util and xautolock all happy together
+0	removing disk quotas in scientific linux	xl2tpd redial does not work
+1	extracting information between tags	extract information from a text file
+0	why can not i use arrow keys in terminal on debian 6 ? ( nonroot )	what fedora 15 should i download ?
+1	ssh to a host and enter password with shell script	ssh login with clear text password as a parameter ?
+0	how to know dhcp options value on debian/ubuntu and other linux	using huawei e303 on a modified linux machine
+1	keeping a process running after putty or terminal has been closed	keep ssh sessions running after disconnection
+0	is it possible to transfer the history of commands from one system to another ?	is there a way to find which iptables rule was responsible for dropping a packet ?
+0	chmod and chown not working in sudo called script	how to enable iommu on the debian sid kernel
+1	how to " bond " sshd to only a given interface ?	how to check that a daemon is listening on what interface ?
+0	debian dead when copy over 1gb	puppet problem with sysctl
+0	does the suid bit have any meaning for device files ?	shall i expect faster boot when i boot my system with run level 1
+0	how to use git for this particular purpose ?	which softirq will execute if interrupt is generated on same line : preempted or new softirq ?
+0	open list of files in vim to specific lines	openbsd x , mouse only scrolls down
+0	what command line to use to set up double commander 's " run in terminal " feature to use xfce terminal ?	how to run scripts on headless startup ?
+0	how to run a program on boot up ?	anyway to navigate percentage-wise in vim ?
+0	how to troubleshoot no sound on centos 6.4 w/ usb headset ?	finding all wav files of multiple directories and copying them to local computer from server
+0	recursive glob ?	can files be created with permissions set on the command line ?
+0	find location of sourced shell script	wd mybook 3tb - gparted failed & hdd partitions recovery ?
+0	perform cisco 's dns doctoring on freebsd	failed to bind to '127.0.0.1:6600': address already in use
+1	what is the equivalent of apt-file in portage , if any ?	how to find which package provides a file ?
+0	file owner must belong to file group ?	inotifywait different action on file or dir
+0	linux mint 13 not installing	displaying stdout of a background process in specific location of the terminal
+0	does using lvextend destroy data already on the volume ?	i have submitted my first kernel patch , what next ?
+0	choosing a filesystem for a shared disk ( not a cluster filesystem like gfs )	automating pipes ?
+0	why can users delete each others files in this case	how do i allow rwx access to a specific group with acls ?
+0	view blocked address from sshguard	how do you check the support for a specific cpu in the linux or bsd kernel ?
+0	using exec in find over ssh from shell script	backlight powersaving : working in x11 , but backlight does not turn off on virtual terminal . gentoo , asus eeepc 1015bx
+0	select text in urxvt terminal using shift+arrow or ctrl+shift+arrow	getting new files to inherit group permissions on linux
+1	twitter status updates from command line ( via curl )	how to tweet using terminal ?
+1	easy way to determine virtualization technology	physical host or vm
+1	cp with a single argument containing wildcards	what does `mv . /*` without specifying destination do ?
+0	"find : . : no such file or directory " while using find on the current directory	why does the adduser command behave surprisingly ?
+0	multiline pattern match using sed , awk or grep	transpose several columns ( of varying lengths ) into rows
+0	does tar create new inodes to be archived ?	how to check lvm mirroring under linux ?
+0	yum regular expression or wildchard search ?	how can i get a username prompt on mint 16 's login screen ?
+0	ocr on linux systems	keyboard ( mostly ) does not work in wine
+0	reload of tmux config not unbinding keys ( bind-key is cumulative )	how to get access to the root journal for systemd ?
+0	use find and tar together	combining local and remote terminal multiplexing
+1	how is replaceable text shown in a terminal ?	use the command bar in bash without i/o ?
+0	yum update version issue	command line friendly virtual machine
+0	forgot encfs password	how does searching a file ( locate ) or autocompletion work ?
+1	how to generate kernel crash dumps ?	how to enable crash reports/core dumps/stack trace logging globally ?
+1	how to sort by multiple columns ?	trying to sort on two fields , second then first
+1	getaddrinfo ( ) from shell ?	host lookup that respects /etc/hosts
+1	store password as hash in wpa_supplicant . conf ?	wpa_supplicant store password as hash ( wpa-eap with phase2="auth=pap" )
+0	how do i display the name of my audio card driver from the command line in lubuntu 11.10 ?	how can i fix a partition conflict ?
+0	does git contain information about used id / group id changes ?	output the result of df command to variable then print to an html page
+0	why can not boot this process at launch ?	bash : /home/user/ . ssh/authorized_keys : no such file or directory
+0	in gnome , how do i decide whether to accept a packagekit software source ?	do journaling filesystems guarantee against corruption after a power failure ?
+1	how to remove n number of lines from a file using sed command ?	remove line containing certain string and the following line
+0	routing packets between networks with iptables	using nis without nfs
+1	how to `cat` file with syntax highlight ?	how can i display syntax highlighting on a file ?
+1	how do i simply recover the only file on an empty disk just deleted ?	unix/linux undelete/recover deleted files
+0	variable declaration in parallel sh -c …	uploading directories with sftp ?
+0	why do some linux distributions still have /dev/ttys0 , ttys1 , etc . , even though newer computers do not have such a serial port ?	getting " bad init string " when dialing with wvdial
+0	download copy of file which updates on change	display what has been copied by `cp` ( using `ksh` )
+0	auto-login to internet script	grep a string with spaces from a file
+0	why only one active group at a time ?	problems with dell wireless 5570 hspa+ mobile broadband card
+0	i have debian on my server . should i use centos or ubuntu version of software i need to install ?	vmware vix 1.13 on ubuntu 12.04 not working
+0	linux program running on ubuntu machine but not on unix webserver	how to know which compiler is used to compile python programs ?
+0	list all dns servers , including those pushed by vpn	why i got a strange result for fdisk -l
+0	conditional dependencies for a debian package	root able to login but non root users are denied - pam
+1	command --help vs man command	why do some commands have man pages and other commands use --help ?
+0	auto indent / format code for vim ?	how do i set up multiple nis servers for centos 6 clients ?
+0	ssh alerts for outside ip addresses	elegantly get list of children processes
+0	linux package manager architecture	how to cd into the named directory if command not found ?
+0	how do i enable ipv6 inbound traffic to get forwarded to my machine ?	debian cannot resolve hostnames
+0	how to replicate ( fork ) the current terminal	create sub-directories and organize files by date from file name
+0	move all files with a certain extension from multiple subdirectories into one directory	terminator will not open with default profile
+0	ffmpeg and libvpx : error while loading shared libraries	in iptables , what is the difference between targets dnat and redirect ?
+0	how to send an email to myself on the same local machine ( tcp port 25 )	is there a way to print to a preset location for print-to-file ?
+0	i/o format with printf in bash-shell	creating exact non-scaled booklets with pdfbook automatically
+0	config fstab file for a diefferent partition root directories	whole program name not visible in nethogs
+0	how do i mount an ntfs partition in /etc/fstab and prevent files/directories from receiving exec permissions when they are created ?	file ( 1 ) and magic ( 5 ) : describing other formats
+0	sudo mount from webserver ( apache ) by mod_php , result not visible by root	why do we have to wait for a video ( over samba share ) in vlc ?
+0	how to change colors of all running urxvt instances ?	show who a file is chowned to ?
+1	how to mount a flash image in linux ?	how to find the type of img file and mount it
+0	problem with netrunner enigma detecting macbook pro wireless driver/adapter	grub2 insert additional kernel modules
+0	what would it take to add a command to run a script at the completion any given random task ?	downloading debian securely
+0	why unix mv program does not need -r ( recursive ) option for directories but cp does need it ?	why bitchx is called bitchx ?
+0	recommended way to login to root ?	how to ascertain remaining space on an isolated partition from the command line
+0	convert wav music library to flac on command line and achieve best quality	terminal freezes after using tar or gz
+0	how to record a flash movie from a live cam on the internet ?	understanding tc qdisc and iperf
+0	in the mwmrc file , how can i disable the mouse from resizing or moving a window ?	easily share a folder with a windows computer in fedora 15 ( gnome 3 ) ?
+0	arch install compiz	getting direct input from keyboard , ignoring x
+0	change lightdm background	change zathuras display mode to single page only
+0	stop browser window from switching workspace and getting focus when opening a link ?	how can i set a bash alias that evaluates $ ( ) when run ?
+0	python error after installing libboost-all-dev on debian	linux command line . move all files and directories in directory , except some files and directories
+0	how to change default log location of smf registered processes	restricting access to just cvs and git commands
+0	what is needed for a minimal systemd boot to launch getty on a virtual console ?	make terminal print name of parent process osx
+1	what does 2> &1 in this command mean ?	how could i remember how to use redirection ?
+0	how to associate with an ea-n66 ( in repeater mode ) in debian wheezy ?	dual booting centos5.5 and fedora
+1	difference between sudo -i and sudo su	su vs sudo -s vs sudo bash
+0	tmp/krb5cc_ [ uid ] is not getting purged regularly ( kerberos credentials cache )	apostrophe appearing whenever type letters with soft signs
+0	how do i boot linux if boot partition was deleted ?	case sensitive substitution ; same target ids
+0	why are my system preferences not saved when changing file associations ?	os x : how to keep the computer from sleeping during a http connection
+0	linux webcam software	uptime and who -b are showing different times when the system was last booted on linux
+0	bash color echo : problem with '-n ' option	to find file received time using find command in ssh server
+1	swap separation for multiple distributions	are there any side effects when two distros share a swap partition ?
+1	how to allow to run su instantly after i added the user to the appropriate group	can i add to my groups in the current ( shell ) process ?
+0	find driver ( which is not automatically installed ) for a specific hardware	using ctrl+b in less within tmux
+0	samba non-root user can not write to share	configuration to listen-on different depending on the domain asked
+0	black screen when installing fedora 16	grant permissions using rysnc
+0	why would someone choose freebsd over linux ?	ubuntu kernel compilation ?
+0	is there an analog of apt-pinning in fedora ?	how do i reload a proxy automatic configuration file ( . pac ) ?
+0	cname : mail address gets rewritten	keyboard and mouse not working in qemu
+1	can i prove that an ssd is broken ?	is my ssd broken ?
+0	colored text set up with ps1 and colored output from commands mess each other up	why are man pages blank for non-root users ?
+0	how to have separate command history for different sessions for the same user ?	pipe hex characters to awk
+0	solaris : find the day of last monday , tuesday , . . . sunday by means of shell script	how to exclude directories from `ls -r` output ?
+0	how can one time out a root shell after a certain period of time ?	how to randomize the output from seq ?
+0	what would be a good choice for an elastic file system ( for adding storage at a later date ) ?	audacius warning
+0	configuring what commands xfce4-session-logout runs	two networks cannot be accessed simultaneously
+0	"ps/2 generic mouse " gets lost . how to reload without reboot ?	execute a specific command in a given directory without cd'ing to it ?
+0	how can i prevent windows from overwriting grub when using a dual-boot machine	how to use casper-rw file for persistance
+0	broadcom or modem wireless connection problem	telnet : " no environment-specified terminal type . "
+1	batch rename file names including spaces and patterns	batch renaming files
+0	why do i get a different rsa fingerprint when multihopping using proxycommand	keyboard problem with debian testing and gdm3
+0	`ln -s` creates a symlink inside an existing folder instead of failing ?	grep for all the lines that doest not have a particular word
+0	straightforward linux clustering	how to mount freebsd 9.0 iso file writable mode ?
+1	mapping single key ( such as ' f1' ) to multiple keys ( such as ' ctrl+c' ) in gnome	binding single key ( such as ' f1' ) to multiple keys ( such as ' ctrl+c' ) in gnome
+0	running linux virtual machine guest on linux host	how to configure kmail2 to use client certificates for pop3 and imap access
+1	booting into shell instead of graphical interface	disabling graphical login in debian wheezy
+0	create a centos guest img over ubuntu	what is an easy way to see whether a mount point has been made shared ?
+0	configuring real vnc on rhel 6.3 command line	org . gnome . desktop . background defaults ?
+0	does desktop environment effect the performance of program ?	how ' passwd ' gains root user permissions ?
+0	how do i change permissions on a directory without losing setgid ?	html5 on openbsd ?
+0	bash scripting rsync puzzler	remove last character from an echo variable
+0	what is wrong with this xargs command ?	abbreviated current directory in shell prompt ?
+0	decimal conversion number of the form x . xx to 0x . xx , sed ?	what format is the file /var/mail/username mail utilities
+0	copy all tags from one flac file to another ?	problems installing lcov on debian 6
+0	how can i fix my x11 draw garbled icons ?	dd-wrt and /bin folder permission
+0	java uses max 8 cores on debian , even though 16 are available	how to enable local ~ autocompletion for scp ?
+0	how can i get x to autodetect monitor specifications again ?	how do i run a command as the system administrator ( root )
+1	what is the difference between ' and " ?	difference between ' and " on command line ( bash ) ?
+0	rs232 chat . simplest way ?	how is path set for users in puppet ?
+0	how do i track why x11 keyboard shortcuts do not work ?	into which directory should i install programs in linux ?
+1	how can i screencast purely from the tty ?	typescript -terminal recording into video ?
+1	how to install cinnamon with slim on arch linux ?	how to install cinnamon with slim on arch linux ?
+0	combine text files column-wise	usb keyboard does not work with grub
+0	how to get wireless access point information from macos terminal	migrating data from debian to ubuntu server
+0	how to turn off internal laptop speakers when external speakers / headphones are connected in elementary os ?	tmux on startup and ssh-agent forwarding issue
+0	writing a shell script to take output of an executable and perform some calculation	domain has exceeded the max defers and failures per hour - no cpanel
+0	how to append data of multiple files into single file ?	modify an incoming mail from text/plain to text/html
+0	how can i configure openbox session for opening files by mime type ?	why are there so many files and folders within the folder of tomboy ?
+0	/etc/shadow on mac	how to fix frequent crashes of openshot ?
+0	how to use whitespace in procmailrc recipe destination path ?	how to create an initrd image on opensuse linux ?
+0	ftp timeout first time	install vlc in centos 6.4 and embed on web page
+0	update manager returns error [ mint 15 cinnamon ]	why powervm lpar cpu utilization is negative
+1	why “xdg-open” fails although “xdg-mime query defaut ” succeeds on ubuntu 10.10 ?	why does " xdg-open " fail although " xdg-mime query defaut " succeeds on ubuntu 10.10 ?
+0	which unixes support cross-device filesystem links ( in particular for rename ) ?	insert a new directory path to path in . cshrc file fail
+0	how to create a emacs file that looks/feels likes the emacs start up page ?	help improving my awk skills
+0	tcl vs . dsl vs . tty vs . feather - how to choose one over another ?	how to tail multiple files using tail -0f in linux/aix
+0	finding parentheses with % in vim across lines	recovering overwritten lvm metadata
+0	dbus-launch terminated abnormally with the following error : no protocol specified	how to limit network bandwidth ?
+0	fedora 17/18 on arm architecture	how to test upstart feature of ubuntu to see my script gets restarted automatically if it gets killed ?
+0	filesystem not showing correct size in mac osx	a way for saving running state of a program
+0	terminal does not source . zshrc with custom colors for ls and cd command	how to try every bit of a linux distro without installing it ?
+0	why can not i use public/private key authentication with ssh on arch linux ?	is the content of a file always stored continuously ?
+0	how to set the default tag for jedit windows in awesome wm ?	jvm memory limit on linux ( debian )
+0	can not add large number of rules to iptables	screen content showing for a few seconds before screensaver starts ( fedora 14 )
+0	interesting secure copy behavior	add a custom cron job from the command line ?
+0	linux - file change time versus modification time	is centos exactly the same as rhel ?
+1	ssh login with key but without password with regular user on synology diskstation	how to make password-less login work
+0	direct recursive shell script output to each subdirectory , not parent directory	startup script does not work
+0	using sed to replace characters between two patterns	mailx change the direction of the mail
+0	is there any way to use chown/chgrp without modifying the last modified date ?	how to login as root from bash and do stuff
+0	k3b to split volume across media	pass 1 environment variable using sudo
+0	emacs mode for man pages	allow all users can write files/folders of user " apache " ?
+0	postfix : save every outgoing mail in files	how to recover windows boot manager after a mint installation gone wrong
+0	`unbuffer` or `stdbuf` for removing stdout buffering ?	cannot get rc . local to automatically run at all
+0	debian cannot access internet despite being " connected"	how to limit ftp speed
+0	how to add a linux partition on freebsd	registering a standalong app in the application launcher of kde
+0	crunchbang installation on netbook	which linux can i install from windows ? ( but not ubuntu )
+0	making vim fold also hide newline after function	cant create encrypted partitions during debian installation
+1	how to recover : deleted accidently important files	undelete files from local fileserver
+1	how to print dates between two different dates	how to create a data file with a column of date from day1 to dayn ?
+0	deleting non-empty directory with smbclient	xen storage repository has option type=lvm missing ( xcp )
+0	how can i setup ~/ . tidyrc file for xml ?	how can i add an alias for my pwd to an existing file ?
+0	check whether two directories and their subdirectories are the same	the " cp p2 &2 &" command makes konsole to disappear , is it a bug ?
+0	how to get the latest gnome shell in fedora ?	unable to get rid of root user and privileges
+0	disabling ( or removing ) x from crunchbang home server	how to exit vncconfig process properly
+0	using a symlink for a mountpoint	converting bash script to fish
+0	converting * . ram to * . avi	why does not wpa handshake occur ?
+0	how to switch to editing command in text editor	vmo changes after adding new ram to aix ?
+0	supported 2014 distro with 2.6 . x kernel	wifi on/off button on tp-link wr841nd
+1	how to install squashfs-tools on ubuntu ?	ubuntu + extract filesystem . squashfs for editing
+0	rolling diffs for storage of highly similar files ?	why would the " real " time be much higher than the " user " and " sys " times combined ?
+0	min max buttons not displayed	symlink all subdirectories in a directory to another directory
+0	how is replaceable text shown in a terminal ?	ftp 550 error when trying to copy file
+0	how do i temporary change my keyboard layout on debian ? ( no x )	how can i find out the estimated power use of my desktop computer ?
+0	how to create a shortcut of some folder on docky ?	set the default keyboard type to ascii mode
+0	virtualbox : two network interfaces ( nat and host-only ones ) in a debian guest on ubuntu	navigation motion to skip comments
+0	vim : hide status line in the bottom	"404 not found " when updating the package list using apt-get
+0	why are there empty lines in the output of my command ? : find ~/x/y/ | shuf > ~/desktop/z . txt	undelete a just deleted file on ext4 with extundelete
+0	change default path for when i ssh in to centos server ?	detecting whether a server is loaded
+0	nfs does not work . mount : wrong fs type , bad option , bad superblock	can i redirect logfiles to syslog ?
+1	reason for the inability of root to send a fatal signal to pid 1/init	can root kill init process ?
+0	how does " cp " handle open files ?	is it mandatory to have a file system and mmu in linux ?
+0	how to make dual boot live dvd	how to change the default editor for a file type in mac osx ?
+0	update . profile in /etc in unix	switching from xorg to console does not work
+0	how to rsync only new files	can not start default network , is there a way to run dnsmasq for both local and kvm ?
+0	python library conflict with lower version	why is bash not storing commands that start with spaces ?
+0	slick one-liner to convert a list like "1: 2 , 3 , 4 , 5" to "1.2 , 1.3 , 1.4 , 1.5"	executing zsh rehash after build
+1	distro for low-ram with most recent package versions	low-ram linux distro specifically for serving static sites
+0	cat file to multicast	preferred way to install bash functions ?
+1	accessing apache server over the internet	ssh port forward to access my home machine from anywhere
+1	ssh twice in bash alias/function	how do i connect to a pc through another pc using ssh
+1	udev rules to identify a usb storage media ?	triggering an action when a specific volume is connected
+1	proper way to delete contents of directory	how to remove only the content of directories ?
+0	cannot mount lvm2 partitions	where is trace_regmap_async_write_start ( ) defined ?
+0	how to detect aspect ratio of monitor ?	how to lock my session in xfce ?
+0	adding public is_rsa . pub to known_hosts automatically - how to ?	kvm desktop client cannot connect to www server
+0	directory mounted under regular user is inaccessible from said user	enigmail : automatic display of photo id
+0	yum stopped working after upgrading it	can not receive mails to thunderbird via postfix local server
+1	better way to get memfree from /proc and convert to decimal	correctly determining memory usage in linux
+0	how to reset the password on a kurobox pro nas appliance	installing upstart on centos 5.10 final… pkg-config dependency issue
+0	correct way of updating plugins for webapplications hosted on linux	how can i get apache2 in opensuse to map /srv/www/htdocs/index . php to localhost ?
+0	pg dn key returns tilde ( ~ )	"e : sub-process /usr/bin/dpkg returned an error code ( 1 ) " when i try and install openvpn . what is this ?
+0	debian 7.0 ( wheezy ) change keyboard layout to german	configuring anonymous rsync daemon
+0	"links " to dirs that have features of both hard and soft links ?	last data traffic time for a tcp socket
+0	the usage of < /dev/null & in the command line	apt-cache policy gimp libgegl-0.2-0
+0	how to use a proxy when using privoxy ?	i accidentally chmod -r +x on a directory . how do i restore the correct permissions ?
+0	sourcing a file inside a script	snd_rawmidi_open ( ) waits forever - no error message
+0	how to securely download rpmfusion keys	how can i swap my two screens , left to right ?
+0	is there any alternative to grep 's -a -b -c switches ( to print few lines before and after ) ?	failed make when installing madplay source
+0	linux network troubleshooting and debugging	equivalent to " copies=2" feature of zfs in linux with lvm
+0	what file systems on linux store the creation time ?	what is the most complete ms word alternative ?
+1	mail does not work	how to set up local mail retrieval and delivery ?
+1	how to recompile exim4-daemon-heavy ?	how to create a deb file manually ?
+0	how to start/stop transmission at given times ?	lshw and lscpu disagree on caches - which is right ?
+0	ant command not found when running from the path othe than ant installation directory	-bash : pkcs12: command not found
+0	stop cron script from destroying my mirrorlist with invalid data	why does sshd requires an absolute path ?
+0	how to limit number off ssh login attempts per time interval	how to find the path of your current working directory ?
+0	should lvm partitions be used in virtual machine images ?	how to extract bookmarks from a pdf file
+1	zip a directory that name start with `-`	what does "--" ( double-dash ) mean ? ( also known as " bare double dash" )
+0	centos 5.5 install customization	how to install oracle java7 in ubuntu13.04
+0	printing match groups with grep	awk-find maximum value in a row & print with header
+0	yum is not working	unable to make file system writtable no matter what
+0	how do i find out the device node corresponding to my device in suse 8 ?	setting tab width in c++ output in bash
+0	mailx change the direction of the mail	files with " core " name
+0	what is the difference between linux and linux lvm ?	apache server does not start when mod_sm . so is loaded
+0	relocate ext4 structures to survive truncation	restoring output to the terminal after having issued " exec &> filename"
+0	restoring default ip rule	count how many elements in the nth column in a whole file
+0	how to set up network for ekiga on arch linux ?	how to stop users from switching to root user
+0	using all callin different targets in makefile	crontab does not run ?
+0	can color-theme bind to a buffer ?	ssh & forwardx11 vs forwardx11trusted --> beyond my grasp
+0	clustering servers to run one vm	garbled text in tmux menus
+1	show human readable file size in du	how do you sort du output by size ?
+0	how can i tunnel traffic for a natted host to another server ?	why i sometimes see " init : version 2.88 reloading " in the console ?
+0	how to set the path osx applications use	adding a time stamp when moving a file in bash
+1	shell script to send a mail once every 20 days	need a shell script which should send a mail to me once every 20 days
+1	ksh:get files created on specific date in directory	getting all files that have been modified on a specific date
+0	editing a device tree to disable driver loading	command prompt switches to > , what does this indicate ?
+0	how to dump a man page ?	mitigate connection between two wireless access points
+0	recursively apply a command to modify all files in a directory	why does ssh show protocol as tcp6 *and* tcp in netstat ?
+1	'screen ' utility : how to prevent it to handle the display ?	is there a way to make screen scroll like a normal terminal ?
+0	how can i remotely access linux servers	replace a word after a significant line and white spaces ( inline ) using sed ?
+0	can i tell to useradd to execute a script ? maybe in /etc/default/useradd ?	how to install rtl8723ae firmware in centos 6.4
+0	mbsync : move subfolders to root	how to troubleshoot udev not creating /dev/hda3 on gentoo boot ?
+1	how to delete directory ' :q ! ' ?	how do i remove a file i accidentally created named $file ?
+0	cannot execute binary file	expanding variables in zsh
+0	how to integrate mv command after find command ?	query firefox password database
+0	use sed or awk to join lines in a certain pattern ?	what after exec ( ) in ls command . is the parent process printing the output to the console or the child ?
+0	gnome keyring issue	how can i delete text before a delimiter in linux
+0	rm -rf all files and all hidden files w/o . & . . error ?	how to remove quarantine from file permissions in os x
+0	difference between long running process and daemon ?	script to read videos and output information
+1	zombie process cannot be removed or killed	how can i kill a process whose parent is init ?
+0	how to install wine-1.4 in the sid repo ?	store restored files and directories in a separate directory
+1	reading and searching long man pages	can i get individual man pages for the bash builtin commands ?
+1	can i use & variable of sed for doing operation inside $ ( ) ?	addition with ' sed'
+0	what does " lc_all=c " do ?	how can i prevent drivers from binding usb devices on a certain bus ?
+0	execute john the ripper on multiple processors using mpirun	is there any handy command line tool to manage cron jobs ?
+0	iphone type login screen ?	bad substition how to force /bin/bash as a shell ?
+0	how can i move files from my host system to whonix-workstation ?	pipe each last run command to a script
+0	how to schedule something run once using anacron ?	how to debug a suspend problem ?
+0	how to move all files and folders via mv command	can not add swap file on solaris
+0	grepping of common lines between two file based on specific columns values in case of multi matching	dropbox icon is disappeared in mint 16 cinnamon
+0	how to mass change password attributes in aix uname -rv=3 5 for all users but root	can an ecryptfs home directory be backed up remotely
+0	pseudo-terminal message in script	configurations needed to be done post gcc compilation and installation
+1	how do i find the running gui environment from the terminal ?	is there a way to retrieve the name of the desktop environment ?
+0	ubuntu 10.10 network connection cut down after few minutes of starting	how do i disable the touch screen on my laptop ?
+0	ping command results in packet loss	how to upgrade fedora openvz container over ssh ?
+0	cannot access disk , partition table broken	heartbeat 3 binding socket error
+0	bash-script . shift seconds	udev : running a shellscript that accesses an x display
+1	need small distro without a desktop or windows manager , just to run a single graphical app	how can i build a custom distribution for running a simple web browser ?
+0	linux signals logger	in zsh , difference between cat < ( cat ) vs cat | cat vs cat = ( cat ) ?
+0	enable kwebkitpart in konqueror	how to startup freebsd in console mode
+0	emulate unplugging a network cable with qemu-kvm	how to create my own linux distro ( say from ubuntu source code ) ?
+0	keyboard lockup after hold ctrl key	in a script , check if standard input comes from a file or pipe
+0	plesk update fails	mutt : trash folder
+0	why lfs could not use original host environment variables ?	what fonts are good for unicode glyphs
+1	removing path in env variable path permanently	how do i set a user environment variable ? ( permanently , not session )
+1	color ps1 based on previous command output	bash : display exit status in prompt:
+0	grep --color adds ansi code esc [ k - this can change displayed text	is there a way to download pure unix ?
+0	change default for nautilus ( file_manager ) from " forget password immediately " ?	how to get modification time for a file ( in unix time ! ) on aix ?
+0	detecting which font should be used	what is your favourite shell script gui/cli editor and why ?
+0	lvm devices under /dev/mapper missing	shell script - reading from standard input versus a file
+0	linux support on 2012 macbooks	systemd unit for reconnecting wireless on failure
+0	how to set the default tag for jedit windows in awesome wm ?	crunchbang as an optimal os ?
+0	launch picasa under crunchbang waldorf	kernel optimiziations for ioctl af_inet operations
+0	hdi script fixed ( non-interactive ) input in a command-line gui program ?	chmod 600 fails silently
+0	can not install dpkg on linux 2.6.18	auto login for ubuntu ( or other linux ) without gui ?
+0	bash : test whether original script was run with `-x`	why can not vim open a 100 mb text file when i have 16 gb ram ?
+0	every time i run azureus it wants to restart because of an upgrade	home folder unintentionally exposed while using samba shares
+1	access a ntfs external drive in centos	writing on ntfs drives ( on debian wheezy )
+0	has anyone got the android ndk toolchains to run on arm instead of x86 or x86_64 ?	openelec , non-root user , home directory , ssh
+0	how to convert txt to pdf ?	aptitude : what is the filter for virtual packages that has been provided ?
+0	replacing the end of a few hundred files	uninstalling ldap on fedora
+0	ssh encryption security	extracting queries from log file that do not include banned lines
+0	forgot to luksclose usb persistent partition , is this a problem ?	iw : what is the default channel bandwidth ?
+0	rsync to copy files which has changed	unmet dependencies after using a backports repository
+0	printing through a samba server without recording the password in plaintext	in linux count number of key presses except those in the browser
+0	what considerations need to be made when choosing the version of kernel for an embedded device ?	how do i edit /etc/rc . local ?
+1	return the numeric value of a indexed variable rather than its name	shell , concatenating 2 strings to reference a 3rd variable
+0	do any " all in one " printer/scanners work on linux ?	linux interrupts
+0	how to append multiple lines to a file with bash , with "--" in front of string	rsyslog : make %syslogtag% equal length
+0	in a bash shell script , writing a for loop that iterates over string values	changing user and group id system wide ( including file system attributes ) ?
+0	solaris default install ( user tools )	how to grep on source code without catching comments
+0	cannot type keyword symbols in linuxmint	encrypted ext3 damaged ; how to proceed ?
+0	is there any use for rlimit_nice ?	shomehow the rx/tx-counters on the interface resets
+0	vim : pasting lines line by line	centos 6 with linux-libre kernel ?
+0	how to grep recursively in order of last modified time ?	scientific linux install iso hashes ?
+0	how to disable auto login in linux mint	finding the ip address of an ssh connection made in the past
+1	time all executions in bash	forcing an ' added ' alias to every command
+0	why are filenames that start with a dot hidden ? can i hide files without using a dot as their first character ?	where can i find the user documentation for my old freenas 0.7 ?
+0	do you know any campaign manager running on linux ?	how is it that missing 0s are automatically added in ip addresses ? ( `ping 10.5` equivalent to `ping 10.0.0.5` )
+0	how to execute a shell command from a " starter " ?	are there other lsm ( linux security modules ) in addition to selinux and apparmor ?
+0	how can i `man print` ?	how can i create labels in virtualbox like this video ?
+1	where does backtick and single quote come from when denoting commands e.g. `prog ' ?	why do unix man pages use double backticks in place of double quotes ?
+0	partitioning for web servers	where is boost installed on debian ?
+0	is there a vim shortcut for ?	add monitor to linux tty framebuffer
+0	thunderbird quick filter - remove default text	run a shell script and read the output in a variable and run another script based on output
+0	reading freebsd ufs formatted external drive in mac os x	scp command working in bash does not work in zsh
+0	why does linux purge the memory cache when it is nearly full ?	how does this command make a user a sudoer ?
+0	problem with xorg on debian after upgrade to wheezy	how to remap keycodes via setkeycodes ?
+0	what does this hard disk error message mean : “current pending sector count …” ?	what is going wrong with this theme when running eclipse ?
+0	how sudo/root-ness detection works	color coding html color sequeces in vim
+0	linux/solaris + manipulation of standard output	disable autoscrolling in gnome 3.4
+0	how to rotate video ?	command line expression solver ?
+0	execute shell script from php , as root user ?	securing a script a little more
+0	crontab job start +1 min after @reboot	problems with maple 16 gui on arch linux
+0	gui archive manager that works well over ssh	how do i get back to x ?
+1	what does * next to the file name mean in the output of ls ?	what do the symbols displayed by ls -f mean ?
+0	fwui . log error while running this script	debian restarts itself after booting with a " not responding " error
+0	how to securely download rpmfusion keys	why is my condition always false ?
+0	command line utility to read vcalendar files	what linux server settings allow my long running processes to keep running after the terminal is closed/terminated ?
+0	how to do block selection in `screen`	mount a filesystem read-only , and redirect writes to ram ?
+0	how can find support large files ?	change default for nautilus ( file_manager ) from " forget password immediately " ?
+0	how to turn off the help menu in lynx	shredding an external hdd
+1	i get " bash : . . . : no such file or directory " even though the executable is there	getting " not found " message when running a 32-bit binary on a 64-bit system
+0	getting samba on suse to work with ntfs drives	is there a tool ( ! ) to list assigned subuid and subgid values for users ?
+0	how can i most simply transparently bridge traffic between wlan0 and eth0 ?	udev rules for ps/2 and game port do not match on attr , only env
+0	twm ( tab window manager ) : disabling keyboard bell	selinux httpd write access to a directory
+0	apache redirecting when it should not	what is the meaning of "+" in wget progress bar ?
+0	list only bind mounts	emacs windows , frames , server and clients : threads or processes ?
+1	flush data to file frequently for long running command ?	turn off buffering in pipe
+1	is there an alternative to tail -f that has convenient scrolling ?	tail -f equivalent
+0	how to get rid of `mosh` spamming `last -f /var/log/wtmp` ?	connecting remotely to red hat
+0	how to read characters from a serial keyboard on /dev/inputs/eventx ( speed ? )	manipulate a drush " internal " variable
+0	how to stop vim from changing my directory when executing a makefile ?	command to see the size of harddrive in debian ?
+0	recursively create directories for all letters	why did an update to gnome-terminal break my system-colours and how do i fix it ?
+0	ibm java runtime environment on centos	how to keep debian internal clock synchronized ( with ntp servers ) ?
+0	backtrack 5 installation : startx error	does ksplice work with updates from repos ?
+0	mount a usb disk in linux which was not properly unmounted in windows	upgrade python to 2.7.2
+0	"unexpected end of file " in bash script	problem with sed on a array containing strings containing spaces
+0	optimizing a `while` loop	the right way to synchronise sources on freebsd
+0	using mintty as default terminal on cygwin and default shell as bash	extracting / installing a tar file
+0	how to edit context menu in elementary os ' files manager ( pantheon-files ) ?	x11 forwarding not working from putty and xming to centos 6.4
+1	use same arguments with different command	how to access the history on the fly in unix ?
+0	is there a way to run a privileged command upon successful ssh login ( not necessarily with shell or pty ) ?	remotely connecting to unix from mac to use gerris simulation
+0	raid level 5 versus level 1	can not execute restart networking service on ubuntu 14.04
+0	running a statically linked binary with a different glibc	will autologin create remote security problems ?
+1	find which process is modifying a file	determine which process is creating a file
+1	executable lies about own existence	getting " not found " message when running a 32-bit binary on a 64-bit system
+0	targeted network speed over lan	which linux distributions have good screen magnifier software , either freely available , or preinstalled ?
+1	/usr/ucb/cc : language optional software package not installed	/usr/ucb/cc : language optional software package not installed
+0	xterminal dosen't pass key-strokes to emacs	configuring bridge network in kvm ( debian wheezy 7.2 )
+0	determining longest time taken in boot process	install arch linux without overriding mbr
+0	rsa 2048 keypair generation : via openssl 0.5s via gpg 30s , why the difference ?	x driver for underlying hardware
+0	grant permissions using rysnc	dot command in vim , last change ?
+0	how to find all paths not compatible with windows ?	how to find out the dynamic libraries executables loads when run
+0	decreasing hard drive sync time with unison	having trouble exporting fuse via nfs
+0	group memberships and setuid/setgid processes	two find commands comparison
+1	run a command when system starts for any users	bash script on startup ? ( linux )
+1	is it possible to download to files while in a ssh interactive ?	ssh easily copy file to local system
+0	how to make mutter default window manager	how to mount/recover data on a disk that was part of a mdadm raid 1 on another machine ?
+1	rm -rf /home/ recovery	recovering accidentally deleted files
+0	stop broken nfs mounts from locking a directory ?	what does -fnoninteractive mean in a call to debconf-communicate ?
+1	how to use grep command to find the matching pattern and some more characters ?	grep surrounding characters of a match
+0	how do i count the total number of unique strings from a file using linux	running ' bash -i > & /dev/tcp/host/port 0> &1' in the background
+0	awk split parameter by char	brctl not working fine with bridging eth0 and at0
+0	crontab with svn and git	removing the last n characters from every line in an emacs buffer
+0	which kernel does reboot load ?	path variable not being set properly in zsh
+1	can not edit /proc/sys/net/core/wmem_max	redirecting stdout to a file you do not have write permission on
+0	is it possible to use a vmware vdi as a proxy for ssh ?	why my ssds are in /dev/hdx instead of /dev/sdx on centos 5.9 ?
+0	making multiple calls to a program via a bash shell script	mutt : rendering html emails using w3m
+0	connecting to ftp sites via squid	how to install kali linux on to a specific ( existing ) partition on a usb stick
+0	hugepages in linux - how to make sure that java process will start using hugepages	how to avoid overflowing the kernel printk ring buffer ?
+0	logging outgoing connections as they happen	how do i get a mapping of pid to port ?
+0	why bash history overlap the prompt when scroll up in the history ?	can disks be accessed independently in a raid-1 volume ?
+0	test for link with trailing slash ?	share an external ip with several virtual hosts
+1	command to transpose ( swap rows and columns of ) a text file	transposing rows and columns
+0	modify the right click options when clicking a desktop icon	compare files and tell how similar they are
+0	can not install flash player on debian jessie	filesystem that works under qemu and i can mount on my host
+0	can i set defaults for rsync in non daemon mode ?	monitor mode wifi only seeing broadcast packets
+0	repeating a text-output terminal command , in a scrollable ncurses-like interface ?	how to compare two tar archives ( including file content , new/removed files , symlinks ) ?
+1	variable substitution in sed	how can i use variables when doing a sed ?
+0	linux 3d graphic libraries	why does my usb wireless network adapter disconnect every few seconds ?
+0	how to view commandline of processes executed in last 10 seconds	x stuck when using opengl
+0	command substitution vs i/o redirection ?	change default position of dialog windows kde 4.10
+0	centos 6.5 sound permissions	building a binary image from u-boot tools
+0	what are the advantages of using named pipe over unnamed pipe ?	prevent terminal from displaying previously executed command
+0	ssh & forwardx11 vs forwardx11trusted --> beyond my grasp	a terminal that is always scrollable or forever like less ?
+1	how to check which client is accessing unix ?	how to find the machine from which a user logged into current machine using ssh ?
+0	which home directory should ' nobody ' have ?	intel wireless 7260 card is slow ; eventually hangs and is unable to reconnect
+0	is there a way to convert a zip to a tar without extracting it to the filesystem ?	centos 6.4 . building rpm for cups 1.7
+0	wget grabbing empty files that actually exist	ssh-agent : how to set it up so my centos server will only ask for passphrase once ?
+0	separate chrome webapp shortcuts from chrome in gnome shell	bash script to output path to usb flash memory stick
+1	setting up helvetica with fontconfig	setting up helvetica with fontconfig ?
+0	concatenate two files without adding a newline	how to install package via yum in fedora
+0	pid file /var/run/named/named . pid not readable ( yet ? ) after start	building a binary image from u-boot tools
+0	clicking on thunderbird notifications does not focus client	cd . . on root folder
+1	what makes a distribution gnu and are there linux distributions , that are not gnu ?	is it possible to run pure gnu ?
+0	can i rely on binary packages ( pkg ) in freebsd	redirection to services in nat or bridged network only with one subdomain
+0	linux command stuck	aix topas snapshot to web
+0	autofs timeout when accessing read-only file system	what is the purpose of . bashrc and how does it work ?
+0	install cuda 6.0 on debian 7 via package manager	why does it temporarily look like the pv command transfer limit is no longer enforced when i come out of suspend to ram ?
+0	problems with yum/scientifix linux 6.3 ( inconsistent rpm database ? . . )	unix executable file permission vs runtime user 's permissions
+0	sort part of a file	how to properly export and import nfs shares that have subdirectories as mount points also ?
+0	how can i set up a usb printer as a network printer using a linux server ?	current pending sector count error
+0	figuring out physical cache layout in freebsd	where can i find the source code of gnome-shell 3.10 status indicator/bar ?
+0	can i automate tar 's multi-volume-feature ?	log new files in a directory
+0	samba not working through ad	what is the equivalent of freenas for san ?
+0	sftp a file using shell script	no such file or directory error when using xargs
+0	zpool import - cannot import : one or more devices is currently unavailable	why does scp hang on copying files larger than 1405 bytes ?
+0	process works without ampersand but does not work with ampersand	how match different column in file 1 and file2 with awk ?
+0	mysql max_open_files more than 1024	how to show the cups printer jobs history ?
+0	how to log iptables as of kernel 3.9.0 ?	what is the difference in " yum search " and " yum search all " ?
+0	hardware problem after fresh linux mint install	remove unknown unicode character from textfiles - sed , other bash/shell methods
+0	terminal change keys	ubuntu firewall configuration just for browsing and e-mailing
+0	on petalinux , lsmod does not work	dpkg-reconfigure : not found when running in cron
+0	how to turn off the beep only in bash tab-complete	multiple command list after shell conditionals , && , || . shell script , dash
+0	'convert ' taking a long time to create a png thumbnail	strange symbols instead of icons in firefox
+1	traceback ( most recent call last ) error appears on terminal	why is this python error message generated whenever i type a nonsense command ?
+0	timelineview of all agenda files	where should xt . vim be put on osx ?
+1	read the output of a command into a variable	storing output of command in shell variable
+0	browse bash files for a distribution	why does creating a zpool result in this error ?
+1	add a suffix string to end of each line ?	how to implement a horizontal cat ?
+0	automount lookup failed . how to determine what is trying to access the file ?	how to get clicked-on filename as argument of shell script triggered by this mouse-click
+0	create user who can only access one directory	find total file size of a disk
+0	can driver installation procedures be made into a single package ?	is making /var/log directory read only on debian linux safe ?
+0	if i run . /configure , then make again , then will it ruin things if i want to run make a 2nd time ?	uniquely identifying a drive ( not a partition )
+0	do parentheses really put the command in a subshell ?	what is the extended version of the " sl " command ?
+0	hacking with linux	php on centos 6 not working
+0	execute a command in a new named screen	are lock , mutex , and semaphore for between threads or between processes ?
+0	is autocompletion for applications done by shell ?	mysqldump should prompt for password
+0	switching to another shell without copying environment variables	using sed to color the output from a command on solaris
+0	about to replace windows with ubuntu 11.10 . will this cause any problems ?	how to save boot . log between reboots ?
+0	openvpn bridge . can not access machines on local network	how to limit log file size using > >
+1	what is the difference between sftp , scp and fish protocols ?	what is difference between fish and sftp ?
+0	how to give user root permissions ?	where is bash 's history stored ?
+0	how to make bt keyboard available at login and os selection screens	installing dummynet on linux ubuntu
+1	why linux is a monolithic kernel , while you can load/unload modules ( e . g . drivers ) ?	how does linux kernel compare to microkernel architectures ?
+0	how do i set a variable as the user id	is vnstat reporting accurate ?
+0	how to start a graphical session in backtrack linux	ext4 overrides my commit=100 mount option with commit=0
+0	how to calculate the average value of the column ( big number of columns ) that have the row id ?	affordable cloud space for a duplicity backup ?
+0	how can i mimic `sudo su - user` in a script ?	fastest & most core way to replace "\r\n " with "\n " in a file ?
+0	crontab "0/15" minutes + "11-15" hour field : when does that end ?	keyboard problem with debian testing and gdm3
+1	how do you time how long a command took to run ?	how do i time a specific command ?
+0	missing/broken dependancies on opensuse , normal ?	ssmtp package missing in debian jessie - alternatives ?
+0	how can i replace my keyboard and mouse udev rules with xorg . conf . d ?	linux + lib/ld-linux . so . 2: bad elf interpreter + cisco vpn client
+0	how does a bios password work ?	mplayer controls when using stdin playlists
+0	how can i get entries for a given time period from a 400mb+ log file ?	how do i remove a read-only file system from a usb drive
+1	how to upgrade debian stable ( wheezy ) to testing ( jessie ) ?	making debian bleeding edge
+0	unison can not synchronize dropbox configuration ( socket files )	information about txop in ath9k wlan driver
+0	wpa-supplicant overriding iwconfig	monitoring php file access with loggedfs - access denied
+0	omitting extension with find ?	multiple x sessions with vnc
+0	strip spaces after single capital letters with sed	graphical glitch with multiple linux distros
+0	why , when and where is phy used	how do i read an acpidump in openbsd ?
+0	how to jump on a position specified by line and column ?	route outgoing traffic to different gateway based on port
+0	is there a way to change a device id in /dev/disk/by-id ?	list all word pairs that appear in a line together in a file
+0	how to modify ulimit for open files on suse linux enterprise server 10.4 permanently ?	aliases for ' sudo /etc/init . d/'
+1	zip a directory that name start with `-`	why cat , grep and other commands can not understand files starting with minus sign ?
+0	how to install divfix++ under scientific-linux 6.1 ?	chainload two grub2 installations
+0	fedora 14 install fedora 19 software ?	disk space on fedora 12
+0	how can i print half of a page to a pdf file ?	restrict search of locate to specific directories
+0	find out which modules are associated with a usb device ?	how to examine post request over https ?
+0	how do i repair malformed banshee database ?	elf shared libraries - motivation for the plt
+0	remote backup of local server applying rsnapshot	pure ftpd : how to set owner on files uploaded
+1	input output redirection in bash	what is > > symbol and > & in unix/linux ?
+0	'cannot open display ' on restored gnu screen session	how to take the file names from folder
+0	how are directories implemented in unix filesystem ?	what is wrong with this sed expression ?
+0	help with a php web program running a shell script ?	how can i embed a console app 's output into my x11 desktop ?
+0	how can i kill gnome shell widgets ?	modification and access time of a file ?
+1	vmblock on archlinux	vmware tools on arch linux
+0	can i insert sudo via the ^ command ?	run a single command at the start of the machine
+0	log analysis software	how to display duplicates between 2 repositories
+1	fixing a broken packet system ( apt-get )	fix broken apt : insserv : service killprocs has to be enabled to start service single
+1	debian wheezy 7.1 - can not launch skype or firefox	getting " not found " message when running a 32-bit binary on a 64-bit system
+0	which linux distributions have highest install-base as of mid-2010 ?	simple script rotating table
+0	is there a command line spell to drop a column in a csv-file ?	how to exclude directories with blanks via locate 's prunepaths ?
+1	extract in beteen tages in a text file	extract information from a text file
+0	init . d script is not starting under virtualbox	how to make a secure-boot compliant boot cd
+1	how exactly do i create a sed script and use it to edit a file ?	the way to use `/usr/bin/env sed -f ` in shebang ?
+1	bash command to open a system 's terminal	what is the most portable method of launching a terminal emulator ?
+0	changing column separators in a file	can less invoke vim instead of the default vi when i hit the ' v ' key ?
+0	get an error with apt-get trying to install pidgin	is it possible to transfer the history of commands from one system to another ?
+1	input/output error that come back just fine . how to make sure it does not happen again ?	-bash : /usr/sbin/useradd : input/output error — what does this mean ?
+0	how to put a background image on grub ?	what is status of btrfs as root fs ?
+0	how to run a command without hitting enter key ?	how to change the default line length for od and hexdump
+0	best way to view scripted session logs	can not access rasperberry pi over the internet
+0	upstart on debian ?	did all of the requests for comments directly affect the design of unix networks ?
+0	boot linux system from a subdirectory on a partition ?	run command on startup for one user
+0	invalid greeting from server	installing tomcat on aix 7.1
+1	what does < < < mean ?	command line : < < < instead of < <
+0	russian timezone is not up-to-date	aix os fileset with status broken
+0	how to repair the boot selection on grub ?	using regular expressions with cp
+1	staggering the authentication delay on failed `su` or `sudo`	how does one change the delay that occurs after entering an incorrect password ?
+1	how to create alias to kill processes running on a tcp/ip port ?	how to pass parameters to an alias ?
+0	8086 emulator for unix-like oss ?	how/why does cat write a bootable iso to a device
+0	dd remove range of bytes	auditing of symlink/symlinkat syscalls does not work here
+0	magic file that redirects to standard output	building gnu part of gnu/linux
+0	"split i/o"s on a linux vm , disk alignment	why gnome-terminal does not allow unlimited scrolling
+0	hardware ethernet ip limitation	why does linux print a lot of debugging messages on boot/shutdown ?
+0	why does the " which " command give duplicate results ?	library version , api version and soname how should it be done ?
+0	print size of directory content with tree command in tree 1.5 ?	what is the connection between "/etc/init . d " and "/etc/rcx . d " directories in linux ?
+1	undo file removed by rm commend on mac terminal	recovering accidentally deleted files
+0	how to change the default tty after boot ?	how can i change the background of the xfce notification area
+0	winrar installer . rar situation ( automating expect install )	cat write text with "$" inside
+0	confuse with awk user define function	openswan established nated tunnel but , i can not ping remote end 's lan pc
+0	assign special records for specific remote clients dnsmasq	reverse grep to get the last couple of occurrences in a file
+0	how to delete mails from queue of dragonfly mail agent ( dma )	clipboard for images
+1	writing scripts that use different commands in different shells	determine shell in script during runtime
+0	how to redefine kde4 keyboard shortcuts	wrong mount point for internal ssd
+0	aliasing a slightly complex script on linux/bash	identifying and moving fields in a line
+0	print non-existent files from a pipe input	unable to install crypt::ssleay perl module on rhel 5.7 ( x86_64 )
+0	how to use grep/ack with files in arbitrary encoding ?	why is the output of this paste command split on separate lines with indents ?
+0	increasing screen size/resolution on a virtualbox instance of centos	concatenate filename inside of csv file for each line for multiple csv files
+0	what to do with an executable file that simply does not execute ?	run program after finish ssh connection
+1	reverse connection to ssh server	how does reverse ssh tunneling work ?
+0	why am i getting a syntax error with my shell arithmetic ?	remove directory without `rm -r`
+0	posix and bash , sh shorthand , for compound if statement	sharing files with nfs and unix permissions
+1	how proc gets updated about the devices	how frequently is the proc file system updated on linux ?
+0	wificard goes into disabled state setting up ap in n-mode	get list of unread emails from unix server
+0	comparing the efficiency of network stack of two different operating systems	how to combine bash 's process substitution with here-document ?
+0	when using btrfs , why " size " , " used " and " avail " values from df do not match ?	preserving owner/group on os x-provided cifs shares
+0	create a vpn network between a live server and private networks	oh no ! something has gone wrong . a problem has ocurred and the system can not recover . please contact a system administrator
+0	do we need to enable g++ on rhel 6.1	capture textual snapshot of pseudo terminal
+0	gnu mix development kit build error	use bluetooth-next development tree for kernel
+0	rotate screen using udl driver ( displaylink ) on ubuntu 14.04 ?	extremely slow cd-rom burning
+0	is there a gui alternative to gparted ?	make bash 's tab completion fill in first match ?
+0	x120e wifi broadcom bcm43224 " unmanaged"	gparted without gui / x
+0	installing shared library - questions and problems	which filesystem to use for a partition shared with a parallel windows instalation ?
+0	files have the same inode but they do not link to each other	how can i permanently remove a web browser 's ssl warning for https sites that fail to identify themselves correctly ?
+0	is tty_nr referenced anywhere else in gnu/linux procfs ?	how to debug linux kernel panic ?
+0	alternatives to wine	lots of free memory , but java will not start ( sunos 5.10 )
+0	is vnc traffic bypassing ipsec and l2tp tunnel ?	usb2.0 device not recognized anymore
+0	how to clean a home directory to install from scratch a previously installed distro ?	fluxbox sytem tray adding more and more whitespace
+0	kvm does not load windows 8	sysctl parameter for correct arp response
+0	what does altering a file/directory mean ?	how do i boot linux if boot partition was deleted ?
+1	setting up a shared folder with group : acl and file creation	how to set default file permissions for all folders/files in a directory ?
+0	how to start a command upon login in gnome ?	can i make a vagrant multi machine vm depend on another
+0	how to add system alias ?	how to set what route would be added when bringing interface up
+0	cannot start wifi hotspot from fedora 20 - mate but works on gnome	rhev cannot start inside oracle virtualbox
+1	having trouble uncompressing a few files	universal extractors
+0	how do i create a local copy of a complete website section from osx using curl ?	how to format a cf card by a terminal command ?
+0	sort lines according to day	check argument before program run
+0	setting icon theme for qt based apps in non kde environment	png image not displaying for desktop icon on fedora 16/17 with gnome
+1	visualizing ansi color escape codes in log files correctly in emacs	how to colorize text in emacs ?
+0	move iptables rule ( w/o removing and adding )	kvm with directory rootfs
+0	gpg-agent fail : undefined symbol gpg_err_set_errno	crop svg drawing to canvas size in command line
+0	how to see who is logged on to many workstations ?	force ssh to not to print warnings
+0	terminal transparency , imagemagick , and x11 root window problem	is it possible to have an outgoing smtp server when port 25 is blocked ?
+0	stream edit > gdrlr5l04eqy8d 3931|1166 into > 3931	how can i compile minix when i make changes in libraries
+0	manually generate password for /etc/shadow	creating recursively sorted rar archive
+0	how can i set-up vios multiple vlans in our p770 box ?	swappiness and ram usage
+1	what is the difference between `` and $ ( ) ?	what is the difference between $ ( stuff ) and `stuff` ?
+0	where is the log for acpi events ?	why is scdaemon ballooning out of control ?
+0	init : is it a user thread or a kernel thread ?	cannot ping from solaris 11.2 to os x 10.9.4
+0	emacs simple arithmetics in query replace	ext4 , why 70k file takes 88 blocks
+1	meaning of capital s in long ls output	what is the difference between " s " and " s " in ls -la ?
+0	is ubuntu 12.04 likely to be more stable compared to debian testing ?	desktop settings no longer being applied
+0	preventing use of `cd . . ` in bash ?	how to kill a process in a terminal inside emacs
+0	migrate from thunderbird to sylpheed while preserving folder structure	redirect packets and save the content to disk
+0	no core dump on ubuntu on a parallels shared folder	modify the right click options when clicking a desktop icon
+0	curl/wget - sslv3 , tls handshake , cert hangs	wifi not working in backtrack 5r3 acer aspire v3-571 laptop having “broadcom corporation netlink bcm57785 gigabit ether” integrated wireless card
+0	can not add a resolution in mint 14 nadia ( ati rv516 x1350 )	how to install a lftp program on centos
+0	creating recursively sorted rar archive	openfire chat server deamon not getting start while server up every time
+0	ssh out of port 80 to port 22 ?	how ( if possible ) can i terminate a specific blocker hanging a program ?
+0	get xautolock status	find total file size of a disk
+0	su authentication failure , sudo missing	impossible to send mail to microsoft ( hotmail , live . . . )
+0	recursive grep for words in a particular file type	how to implement a rotation scheme with rsync
+1	when using ' yum list available ' why are some entries in blue ?	when using ' yum list installed ' why are some entries listed in bold ?
+1	aix why does ps display the process name between square brackets ?	what do the brackets around processes mean ?
+0	how to change the usb keyboard layout in an openbsd console ?	how to use variables in sed
+1	what is the cheapest way to run aix 6-7 at home ?	how to run a fresh version of aix in a virtual machine with a linux host ?
+1	how do i access a flash drive that has been ejected without physically plugging it out and back in ?	how to reconnect a logically disconnected usb device ?
+0	integrating custom kernel module into debian	shell scripts for the database logs
+0	"find " output relative to directory	vim stops sending text to * ( x11 ) register ?
+0	no bluetooth adapters found : how to get rid of this error message ?	is it possible to set different resolution between console and x when kernel mode setting is enabled ?
+0	diagnosing a freezing system , or renderer	useful linux podcasts
+0	benchmarking apache using ab	how to scp from server to server with different public keys ?
+0	cancel zsh tab completion	how do i suppress the title bar and window decorations on a maximized window in gnome 3.12 ?
+1	how to create nested directory in a single command ?	recursive mkdir
+1	what is the language that appears on the first line of a script ?	does the shebang determine the shell which runs the script ?
+0	what is tmux 's " message-command " ?	is there a way to ' tee ' input to a program or script ?
+1	file permissions of file when tranferring from windows to unix	file permissions of file when tranferring from windows to unix
+0	is there something that will generate keyboard 's click sounds ?	how to have the login screen through vnc in oracle linux ?
+0	backing up and restoring a system user account	sendmail not masquerading email " received:" headers
+0	how to gain root privileges for specific user if we have root password ?	find all folders in a directory with the same content
+0	how to view full bounce message in mutt ?	detect if an elf binary was built with gprof instrumentation ?
+0	configuration ethics ( esthetics ) : /etc vs $home	centos apache virtual hosts definition
+0	tar and if-statement	emacs elpa load packages
+0	lowres application icon on window switching ( alt-tab )	init . d script is not starting under virtualbox
+0	how much success can i expect with qemu on powerpc linux ?	having linux port remap to itself
+0	restrict two way ssh and apache authentication to non-local networks	increment look back value within a configuration file daily +1
+0	use sed to find whole word and replace	how to dock an application installed from terminal to the launcher panel in ubuntu
+0	remove get parameters from file names in directory	keep getting the same result after " export path"
+1	why do i get different outputs when running my shellscript manually from when i run it with cron ?	executing a sh script from the cron
+0	x . org : two ' screens ' on one ' device'	crontab with svn and git
+0	cron file syntax checker/validator script	what is wrong with my jdk installation ?
+0	is the purpose of setting the version number of a file using chattr similar to optomistic locking in a database ?	how to enable two network interfaces both for internet in ubuntu12.04
+0	how to share internet connection over ethernet using network manager ?	how to use libraries installed with a package manager in gnu/linux
+0	where do files go when the rm command is issued ?	fdisk vs parted
+0	take copy of tty0 text	count lines in a file
+0	groups of workspaces in xmonad	how to get edid for a single monitor ?
+1	get the most recent backup files	select greatest numbered filename
+0	how much disk space do i need to install fedora ?	how to send a file using xmodem protocol from the command line
+0	disown will not take -h option	how can i remap the shortcut keys for scroll down/up in gnome terminal
+1	how to get 256 color support in a login shell tty ?	256 color in real console
+1	how to prevent tmux from reading . profile/ . zprofile/ . bash_profile	changing tmux . bash_profile behavior
+1	is it possible to display a graphical application on another host/user	can i launch a graphical program on another user 's desktop as root ?
+0	could you explain this " chroot " /tmp directory creation ?	in shell config scripts , how can i account for differences between coreutils on bsd compared to gnu ?
+0	force a specific frequency from my wireless card	how can i resolve the " invalid elf header " warning when trying to ssh and what does it mean ?
+0	default username for samba share that is not the user name on the client system	why should the ecn on your machine be disabled ?
+0	file permission mechanism in unix like systems	selinux - centosx86_64: user command limitation
+0	kernel/grub : how override root parameter inside initrd script	how do i stop caja from closing when a drive is disconected ?
+0	looking up a local domain name without specifying the local dns server	how to read by multiple lines instead of line-by-line
+0	trying to open a gui from a remote server using mac but not succesfully	how to record different values of a " flag " file
+0	gnome-tweak-tool	how to change tftp root directory
+0	when i set up an email server using postfix , how do i configure it to use my domain name ?	bash script argument regex group conflict
+0	network not working after fiddling with webmin	how to make ext4 filesystem sparse ?
+0	trigger an init script when a specific device is up and a kernel module has been loaded	how to switch the first letters of two words ?
+0	no bluetooth adapters found : how to get rid of this error message ?	unable to run a device in genymotion emulator
+0	change of unix default directory structure	cp -f cannot overwrite cp -i alias
+0	why does not setuid on /sbin/dhclient work as intended ?	crontab triple redirect
+0	resolve all ip addresses in command output using standard command line tools	how to specify the inbox for fetchmail ?
+0	linux distro with generic hard drive naming	ksh if with several conditions
+0	lxc : running virtualbox inside a container	killing multiple gnu screen sessions with the same name
+0	understanding "-dao " , "-sao " , "-tao " and "-raw " writing modes for wodim in practice	kali linux internet suddenly working
+0	why my partitions do not show the right capacity on a 4096 byte physical block hard drive ?	external disk - how to ensure readable by all without needing root perms ?
+0	what is wrong with embedding php scripts inside bash ones ?	how to create maildir directory with enough permissions for postfix ?
+1	why this sort command gives me an empty file ?	can i read and write to the same file in linux without overwriting it ?
+0	easy/simple input method package that works with minimal window manager ?	$@ and ' set env $path ' - why should this statement go into . inputrc ?
+1	how to deploy programs on multiple machines	linux bulk/remote administration
+1	find where a bash command is defined or sourced from ?	how to use `which` on an aliased command ?
+0	ldap user not present in the desired group	python regex equivalent of kwrite [ ] + and [ 0-9 ] +
+0	how can i add a program to my start menu ?	understanding a make file for making . ko files
+1	how to take effect `usermod` command without logout and login	how to allow to run su instantly after i added the user to the appropriate group
+0	how to setup kiosk type functionality in linux mint cinnamon ?	m-x ansi-term colors in emacs 24 . x
+0	loop over multiple addresses : ping and drop data into file	why writing to /dev/random does not make parallel reading from /dev/random faster ?
+0	splitting and renaming a file	vga passthrough - code 43 with kvm and libvirt on all amd hardware
+0	virt-install complains " error : no such option : --network-bridge:br0"	httpd can not access file even after setting httpd_sys_content_t
+0	what is causing this copy command to enter sleep state ?	install backtrack 5 r2 into running luks setup installed with ubuntu
+0	what is the difference between `/usr/share/emacs/site-lisp/` directory and `/usr/share/emacs23/site-lisp/` directory ?	refs but for linux
+1	why the non-root user can not login with a key in putty ?	how to make password-less login work
+1	how do i determine the make & model of my storage devices ?	how do i find out what hard disks are in the system ?
+1	possible to get raid1 , by simply adding hdd ?	how to set up disk mirroring ( raid-1 )
+0	player or plugin that can transcribe audio to real time subtitles	how ' passwd ' gains root user permissions ?
+0	virt-install cpu0 unhandled rdmsr	thunar keyboard shortcut to change tab
+0	cannot delete bridge - " bridge br0 is still up ; can not delete it"	removing " [ crap-like-this ] " from strings using bash parameter expansion ?
+0	cal no space delimiter	limiting number of processes by name
+0	redirect sound ( microphone ) via ssh , how to telephone via ssh ?	determine if a specific process is 32- or 64-bit
+0	compiling freertos on ubuntu	su to another user using ssh keys ?
+0	show message when cd into specific directory	show the time as well as the date that a file was modified ?
+0	xfce and xscreensaver does not seem to consider keyboard activity " activity " - how change ?	backing ntfs in linux
+1	what is the '+' in find command for ?	find -exec + vs find | xargs . which one to choose ?
+0	virtual packages like ' mono-common ' can not be removed	bash script to signal a concurrently running instance ( same script ) about a condition and increment counter
+0	how to execute a python program in a shell script	need more information about kde job notification
+0	how to install adobe flash tar ?	command to restore filesystem to state after installation of the os
+0	build gimp from custom-path libraries	how do i get grindeq ( latex plugin for word ) to work with word in wine ?
+0	is crontab multithread ?	"inotifywait " to watch several dirs simultaneously
+1	bash : run command in background and capture pid	how to get the pid of the last executed command in shell script ?
+0	emacs change point color to current foreground	removing a directory that has no files in it
+0	is there a command for switch to vicmd mode in zsh ?	graphical glitch with multiple linux distros
+0	how to connect to internet in kali linux after changing ip address manually ?	ldap : view dit structure from terminal
+0	make tmux tabs arrange more like traditional tabs	is it possible to preload glibc ?
+0	in bash , can i asynchronously open sockets and use them later ?	why does ' for anytext ; do ' loop four times ?
+0	thunderbird : new email sound notification not working	shell command to remove the first string that is enclosed with slashes
+0	how to write a systemd . service file running systemd-tmpfiles	what steps do i need to take to successfully install multiple linux distros on my computer ?
+0	is there a way to determine what services use a specific syslog facility on rhel ?	cant update iceauthority/unable to resolve debian host
+0	vfat not recognized in debian	my postfix installation is sending out spam ; how to stop it ?
+0	can not login into the desktop	vim search numbers containing specific number of digits
+0	how can i make a configuration web page for a linux appliances ? any pre made solutions available ?	how to forward port by ( sub ) domain name ?
+0	trapping errors in command substitution using "-o errtrace " ( ie set -e )	installing trac - " trac requires python 2.5 or later"
+0	swapon : operation not permitted	manipulate a drush " internal " variable
+0	difference between /dev and /sys/class ?	mounting on boot - how to edit
+0	how to install lsblk on centos 5	changing permission from read only in linux ?
+0	graphical interfaces cutomization and theming	how to list all present optical drivers ?
+0	display shuts down while watching a movie after 10 minutes no matter the settings in elementary os	bodhi installation hangs
+0	how do you recall the last ( n-th ? ) passed argument of the previous command you used with bash ?	rename debian package automatically pulled by apt-get upgrade
+0	make rpm satisfy dependency requirements of other installed packages	can not find command ' linux16' , need to update dell bios . use startup disk ?
+0	is my volume group dead ?	changing permissions
+0	mysql socket and php ( and other languages )	cygwin serial tty device for high-numbered com ports
+1	kernel can not find /dev/sda file during boot	error booting the custom compiled kernel 2.6.37 on ubuntu 10.04 : gave up waiting on root device
+0	how to add a dot to particular lines in latex-document ?	tmux monitor activity change highlight color
+0	window title in x shows wrong application name	cannot run script using udev rules
+0	privileges for jenkins at apache is folder	what is binary package ? how to build them ?
+1	how to find multiple strings in files ?	how to combine two grep statements and display their results together ?
+0	port forwarding and masquerading	questions about nmap
+0	why is the . config file not copied to /boot after installing new kernel ?	are the crontabs of users linked ?
+0	udev rule not working	issue with find -exec cp
+0	do kernel threads seem to interfere with full tickless mode ?	what happened to primary administrator profile in solaris 11 ?
+0	how do you make samba follow symlink outside the shared path	how to print strings matching a pattern with grep ?
+0	what are stripped and not-stripped executables in unix ?	removing duplicate files but ignoring certain lines ( e . g . embedded timestamp )
+0	symbolic link starting with . #	getting g++ to work on mac with xcode
+0	how to shut down linux if idle for 30+ minutes ?	pc sudden shutdown , sensors show normal temps , thermal event interrupts shows 1276
+1	customizing console appearance	how to colorize output of ls ?
+1	a handy tool to measure memory consumption of a program	measuring ram usage of a program
+0	how to connect a wiimote to a fedora 19 system ?	installing and setting the default desktop environment in debian
+0	what is " automatic stack expansion " ?	unable to kill sar process
+1	why cat , grep and other commands can not understand files starting with minus sign ?	how do i delete a file whose name begins with "-" ( hyphen a.k.a. dash or minus ) ?
+0	what is word splitting ? why is it important in shell programming ?	installed root certificate authority does not appear to be working ?
+0	linux fedora : can i preserve what i am doing so that everything will be restored when i power up again	change the time format for the touch command in bsd
+0	how to remove trailing whitespace at the end of the line in given files ( more than one ) ?	how can i check if mysql is installed using a bash script ?
+0	installing eric5 in centos 6.4	is it possible to get a hardcopy in tmux ?
+0	understand netstat -i flgs	faulty support for the installation of debian jessie/testing
+0	wget --spider : how to tell where broken links are coming from	distinguishing a regular file from a symlink
+0	downgrade package from backports back to stable	how can i create an sftp user in centos ?
+0	command line : < < < instead of < <	rsync seems to back up files that have not been opened or changed
+0	fixing lilo with uefi system and no optical drive	is it possible to run job in foreground after user logout
+0	bare-bones linux ?	how to set up smtp and send emails ?
+0	fedora 16 using systemd kernel boot parameters to change ' runlevel'	how long should i wait between keystrokes when doing sysrq + reisub ?
+0	yum - list configure flags/options used to compile package	how can i set up an offbrand display link ( trulink ) to work with arch linux ?
+0	is there a pam standard ?	disadvantages of linux kernel module ?
+1	how to create an upstart process in ubuntu ?	create services in linux ( start up in linux )
+0	sudo source : command not found	installing own git server , push code after granted permission
+0	does free ( ) unmap the memory of a process ?	is this method safe or recommended for moving a /home directory ?
+1	cat all lines from file , which are after " keyword"	how to print all lines after a match up to the end of the file ?
+0	keyboard ( mostly ) does not work in wine	grep command in shell script
+0	is there a place where we can have an exhaustive list of debian 's package ?	can firefox browser plugin/addon do bad things to your files ?
+0	`cp` permission denied when copy a file owned by `root`	how do i only copy files to a remote folder on another server that do not already exist in the folder . . . from the command line in linux ?
+0	does $shell store the path to the default shell in linux ?	counting consecutive repetitions of a specific character ( e . g . , )
+0	awk with multiple delimiters	why does " file foo . css " and " file bar . css " have different outputs ?
+1	added user supplementary group , but ' groups ( 1 ) ' not showing change	how to allow to run su instantly after i added the user to the appropriate group
+1	bash variables in for loop range	in bash , is it possible to use an integer variable in the loop control of a for loop ?
+0	sysctl parameter for correct arp response	basic sed command on large one-line file : could not re-allocate memory
+0	in virtual machine manager , is there a way to add disk space to an existing disk ?	fail to start graphic interface
+0	what is a good way to filter a text file to remove empty lines ?	recommend course of action ?
+1	can i unfreeze bash or vim when ssh session freezes from timeout ?	how can i break away from an ssh session that has crashed ?
+0	netselect - how to get it installed on mint ?	accessing windows7_os partition from linux on a dual-boot
+0	problem on update manager	why does rtc device have 254,0 instead of 10,135 as major , minor numbers ?
+0	how to add another domain to my chrooted named server	sorting records by field backwards ( not top to bottom )
+0	permission issues when doing system backup using rsync	how do i configure my gnome pannel if it does not respond to right-click ?
+1	create user who can only access one directory	restricting an ssh/scp/sftp user to a directory
+0	unprettyfied ssl error message ?	cannot boot debian jessie installed via debootstrap
+1	is there something as flexible as crontab for user-level autostarts ?	how to autostart a background program by a non-root user ?
+1	can we run objective c on unix operating system ?	adding objective c compiler to gcc 4.7.2
+0	is a ? treated in a special way in parameter expansion ?	is there a version of wine that actually runs mainstream chat clients ?
+1	how to see when a package was installed ?	list packages by installation date
+0	dynamic file content generation : satisfying a ' file open ' by a ' process execution'	moving fedora to another computer
+0	what is the difference between @ and * when referencing bash array values ?	ctrl-c with two simultaneous commands in bash
+0	getting a list of users by grepping /etc/passwd	sftp with mysql user pass instead of pam
+1	returncode of command in a pipline	how do i capture the return status and use tee at the same time in korn shell ?
+0	gpg problems when releasing with leiningen	dhcp problems virtualbox
+0	replace using vim , reuse part of the search pattern	emacs wont let me use a different background color
+0	show sum of file sizes in directory listing	how to get comfortable in linux as an ex-windows user ?
+0	low-ram linux distro specifically for serving static sites	pfsense long ping to google
+0	centos 6.5 have to manually add the default route	where to put binaries so they are always in path and can be found easily
+0	i accidentally deleted the sudoers file on mac os x ; is there any way to recover it ?	how to remove ssl certificate ?
+0	how to handle bounce mail sent to the verp address	how does one disable the floppy module from loading on boot in centos7 ?
+0	can i redirect stdout from a background application after starting it ?	usb mouse and keyboard not working in linux 4 tegra
+1	customizing console appearance	colorizing your terminal and shell environment ?
+0	bad magic number	samba - releasing file lock
+0	configure clock on different port other than port 80 in centos	display current pane 's current directory in status
+0	why does dig take much longer than dns query time ?	is setting a higher nice level for a process an effective way to reduce its impact on system load/cpu time ?
+0	are there any ways or tools to dump the memory cache and buffer ?	truecrypt 1: syntax error : “ ( ” unexpected
+0	are there any editline configuration files available to make it act more like readline ?	ssh local port forwarding for web traffic requires proxy configuration in browser settings ?
+0	why does not my new cygwin . bashrc interactive check work ?	can lvm2 volumes based on device names like sda , sdb etc be mounted if their names change ?
+0	change where mlocate stores the database ?	harddisk not recognized / filesystem too large to mount safely on this system / hdparm shows garbage
+0	black screen when kernel boots with vga= parameter	install mono and monodevelop on a new redhat 6.5 workstation
+0	linux mint search launcher does not do anything	how does chroot 's use of qemu for cross compile environments work ?
+1	os errors : kernel : edac k8 mc0: extended error code : ecc chipkill x4	does kernel : edac mc0: ue page 0x0 point to bad memory , a driver , or something else ?
+0	what is the best practice for adding disks in lvm	how to install empathy on centos 6.0 ?
+0	csplit not obeying backslash r \r as carriage return	how do i establish what ip address has been established for my server
+0	understanding boolean operators in bash script	where are recognizers for media types stored and how to add one ?
+0	vim powerline with broken encoding	help me to read my school password-pdf-protected files faster without retyping
+0	binary compare two files , failing only if first never matches any part of the second	why does dig take much longer than dns query time ?
+0	how long could i work with stable release after it is no more supported ?	issue while we install epel packages on centos 6
+1	cannot remove ( unmount ) server share ( nfs ) from mount list	is there any way to check df -k hanging for nfs mount issues ?
+1	extract a single file from a tar file and put it to another directory	search for a file inside a tar . gz file without extracting it and copy the result to another folder
+1	which cmd is the best for determining the os ' word size ( 32/64 ) -bit ?	32-bit , 64-bit cpu op-mode on linux
+0	what is a channel ?	amazon ec2 micro instance large number of io requests
+0	mount android phone file system on linux manually	how is /etc/fstab accessed before root is mounted ?
+1	ssh to multiple hosts and run a command	automatically run commands over ssh on many servers
+1	upgrade debian from oldstable ( squeeze ) to unstable ( sid )	making debian bleeding edge
+0	unable to get embedded device to ping anything on the network	gedit : tabs or spaces dependent on syntax
+0	backing up hard links ( rsync ) ?	how to reinstall grub to the efi partition after initially installing it in linux root . do i have to start over ?
+0	nfs , cifs , and permissions	total in `ls -l`
+0	proxy for certain networks	is there a tool that i can use to create a diagram of my system 's architecture ?
+0	centos , django , mod_wsgi permission error	how to show names of files being compared ?
+0	launching gentoo from external hard drive	mounting multiple devices at a single mount point on linux
+0	quoting command substituted value	reference material about device management
+0	graceful shutdown in archlinux	running thousands of curl background processes in parallel in bash script
+0	how to handle binary data in linux	unable to create sccs file
+0	regular expression problem ( s ) in bash : [ ^negate ] does not seem to work	coloring different sources for tail
+0	error out shell script if plsql program fails	what process is accessing a mounted filesystem sporadically ?
+0	using eval and sed to perform counting and script control	on an apple keyboard under linux , how do i make the function keys work without the fn modifier key ?
+0	how to change locale environment variable ?	lock some accounts during some time periods
+0	problem with small bash script	how to make sure , that certain functionality ( like alt+ctrl+f1 switching into tty ) is available in havily swapping system ?
+0	i seem to be " losing " this prompt . what is happening ?	open . desktop files in text editor by default
+0	changing locale	complete system hang on umount and `ls /dev/sd*`
+0	a list of available dbus services	htop nice level mismatch with the nice command ?
+0	how to trick an init script into returning 0	how do i find out what process is putting my machine to sleep ?
+0	how can i manage jobs after i disconnect from my tty/ssh session ?	how to check if all of dns resolvers are working ?
+0	complete install on raid1 + lvm	update manager tells me my system up to date but
+0	fedora 12 sleeping forever error	how to turn off all event notification under centos 6/gnome ?
+1	changing bash keyboard shortcuts	how to change previous/next word shortcut in bash ?
+1	are zombie processes something i should be concerned about ?	is there any impact of reaping zombie processes ?
+0	why do chromebooks no longer allow vpn connections in guest mode ?	cycle through clients on both screens in awesomewm
+0	window manager / desktop environment testbed	processing two files using awk
+0	starting syslog-ng	apt-get returns strange error
+0	add bracket across numbers at only end of each line	what is the /dev/disk/by-uuid/ and why does it use all free space on the disk
+1	combining rsync --files-from with --delete	delete extraneous files from dest dir via rsync ?
+0	system halt on reboot , shutdown & restarts as expected	why does not docker container start at boot w/ upstart script on ubuntu 12.04 ?
+0	chrubuntu 12.04 bluetooth not detecting devices	virtual wireless access point
+0	randr not recognizing monitor	is there a way to show all flags in /proc/mounts ?
+0	find a user 's writable files and directories	warnings about read-only filesystems while installing a solaris package
+0	using sudo to give access to another account on same machine	is there a way to detect null bytes ( ␀ , nul , \0 ) in sed ?
+0	changing user and group id system wide ( including file system attributes ) ?	how do i dereference links when extracting from a tar file ?
+0	view permission / owner of full directory tree	git auto-complete
+1	route a particular process over another gateway	redirect traffic through vpn on an as needed basis
+0	how to expand tabs based on content ?	rogue java process brings my computer to a halt
+1	installed win7 after ubuntu , win removed ubuntu boot option	grub not loading after windows 8 install
+0	openwrt firewall - block a set of ip addresses from internet access	how does x11 forwarding work ?
+1	difference between bash , -bash and /bin/bash in ps output	difference between login shell and non-login shell ?
+0	running f . lux ( flux ) or redshift with multiple monitors with nvidia optimus	how do i use unused partition in a dual boot environment
+1	renaming all files in a directory while keeping the same initial part of the name	changing extension to multiple files
+0	running a snow leopard 10.6.7 image on an amd : the cpu has been disabled by the guest operating system	automatic kerberos ticket initialization on login
+0	modify user-defined system variables ( that is a number ) of remote server machine using ssh ?	why does luks need to generate hash values ?
+1	is there a way to merge two files smartly ?	how do i " merge " two text files ?
+0	mac os x : terminal prompt username	can we run firefox and nightly simultaneously ?
+0	filesystem content inspection gui ( like gconf-/dconf-editor ) ?	bad blocks only with extension cord ?
+0	sed first n occurrences result set between 2 tags / patterns	how to make sudo use root password for some commands and user password for others
+1	how to use arguments with ' find -exec ' ?	append line to many files
+0	grub fails to install	dial up interface query
+0	samba : sharing some folders without duplicate ?	delete whole argument in current bash command-line
+0	how to change search result highlight in vi ?	bash script for loop with find and many directories
+0	batch rename files with unknown names and unknown extensions	debian cannot resolve hostnames
+1	"$ ! " is used for ?	in bash scripting , what is the meaning of " $ ! " ?
+1	scp from remote host fails due to login greeting set in . bashrc	scp fails without error
+1	configure syslog . conf file	how can i configure syslog . conf file , to log iptables messages in a separate file ?
+0	xor of a shell variable and a binary file	boot fails after reinstall grub
+1	using tput in $ps1 is breaking line wrapping	first characters of the command repeated in the display when completing
+0	xjacker and pulseaudio connection	centos 6.5 have to manually add the default route
+0	applying and linking all settings/binaries of one user to another user in linux	bash tab completion fails inside of command substitution
+0	is it possible to `tail -f /dev/vcs` ?	centos 6 with linux-libre kernel ?
+0	clone installed system by using the hardware raid 0+1 synchronization	how to install canon pixma mx882 using cups 1.4.8 in puppy linux precise 5.7.1
+0	when and how was the double-dash ( -- ) introduced as an end of options delimiter in unix/linux ?	how do i suppress the title bar and window decorations on a maximized window in gnome 3.12 ?
+0	tasklet and interrupt handler synchronization	chrome os on non chrome hardware
+0	mbsync not fetching/pushing with [ gmail ] /folders	. delete_on_error behavior with make and pipelines
+0	how do i restore my console default font , and why has it changed ?	match files based on an md5 using find
+0	how proc gets updated about the devices	can not find vgaswitcheroo directory in centos6
+0	unix command that takes no arguments	how do i mount my encrypted private home directory if i forgot the password ?
+0	how do i temporarily bypass an alias in tcsh ?	does tmux have unit tests or a test suite ?
+1	why do i see myself twice when i run the who command ?	"who " prints duplicated usernames
+0	fixing mime type on ubuntu	is it possible to make linux to autocompile my latex-document
+0	what is the purpose of kernel module dm_mirror a.k.a. dm-mirror ?	apache cgi proxy returning 502 bad gateway on fedora
+0	why does find command use {} for a placeholder variable ?	equivalent of scp -l bandwidth_cap for . ssh/config ?
+1	find -exec {} vs . find -exec '{}'	gnu find and masking the {} for some shells - which ?
+1	how to avoid unnecessary deletion and recopying of moved folders when using rsync ?	any way to sync directory structure when the files are already on both sides ?
+0	how do i backup via rsync to a remote machine , preserving permissions and ownership ?	how to give root privileges for user in centos 6.2 minimal
+0	how to pass each line of a text file as an argument to a command ?	dovecot : corrupted index cache file
+0	user installation emacs 23 on a centos 5 with system-wide installed emacs-21.4-20 . el5 ?	is there a way to create cow-copies in zfs ?
+0	sip server installation in linux	command substitution in shell script
+0	changing keypad settings	accidental `nano somefile | uniq` renders the shell unresponsive
+0	how can i get an ubuntu 12.04 box to do an aptitude update ; aptitude upgrade ?	on unix how do i get the output from the diff command to look like a man page ? where i can press ' b ' or ' f ' to read further or back ?
+0	log to multiple files while process in background ( nohoup )	gnome 3: open and resize application at startup
+1	which tool can tell me the distribution of linux that is running when uname is generic ?	how can i get distribution name and version number in a simple shell script ?
+0	replace a pattern which ends at newline with the same pattern without the newline	nas os that will sync to ms sharepoint ?
+0	easiest way to upgrade my onboard nic drivers on a machine without connectivity ?	were all unix commands re-written in linux ?
+0	how could i remember how to use redirection ?	where is the error page location of squid proxy server ?
+1	difference between mail and mailx ?	mail vs . mail what is the difference
+0	how to use colors/colorschemes/fonts in vim effectively so that the text is as readable as possible	using bash versus ash on synology
+0	asus g750jh with pre-installed windows 8 - i want to dual boot archlinux	how to test the quality of my network connection for voip services
+0	udev randomly mixing up ethernet devices on debian squeeze	auto running bash script on login
+0	how to terminate tmux session and processes it spawned	changing password in multiple boxes using script
+0	kdb5_ldap_util fails with cryptic error	how to combine contents of two files having the same value in a column ?
+1	ssh to a specific machine within a network	ssh via multiple hosts
+1	how can i remove a file called "--help " with bash command line ?	how do i delete a file whose name begins with "-" ( hyphen a.k.a. dash or minus ) ?
+0	deploying filesystem images onto a partition of arbitrary size	why not use pathless shebangs ?
+0	how to create an alias for opening a directory on mac	command line expression solver ?
+0	get ' less ' to display filename	see server desktop in tightvnc
+0	best conventions for icons in debian/ubuntu	what kind of support/options are there for switchable graphics on linux ?
+0	can a user with /sbin/nologin shell login through ssh ?	startup log file for rhel ?
+0	is more or find more resource intensive in finding the number of times an item lists in a file ?	sort at jobs chronologically
+0	running an . iso in grub 2 ( truecrypt recovery )	linux not booting from ssd drive
+0	determining network interface names in netbsd	tmux status line with blank line on top ?
+0	how to check if a partition is mounted as ' noexec ' ?	how do you set a program as a service in linux ( debian ) but have it switched off by default ?
+1	strange behaviour of strings command	turn off buffering in pipe
+0	when exactly does tmpwatch clear out files i place in /tmp ?	installation instructions for hp 7 tablet ( also called ' mesquite' )
+1	could autorun virus , affect my pc via wine ?	does installing and using wine open up your linux platform to windows virus ' ?
+1	let transmission running on the server , independently of ssh session	execute remote commands , completely detaching from the ssh connection
+0	windows 8 not showing in grub	curl does not return any thing for protected file
+1	how driver is specified for any device ?	what is the sequence loading linux kernel module on startup ? how priority is set to them ?
+0	undo iptables modification	ubuntu 14.04 login into desktop by single user mode
+0	alsaequal runs , but sliders do not seem to affect audio	how to run new background command sequentially if i already have a nohup background command running ?
+1	how to make a custom bash tab completion ?	an easy bash completion tutorial ?
+0	how do i see more of the command line with the kde system guard process table	how to mount removable media in /media/ automatically when inserted , without any desktop environment ?
+1	-bash : syntax error near unexpected token ` ; '	bash : syntax error near unexpected token `}'
+0	is it necessary to disown a process for it to continue running after disconnecting ?	basic sed command on large one-line file : could not re-allocate memory
+0	how is network mounted software executed ?	changing user to root when connected to a linux server and copying files
+0	how to configure up arrow to get to the previous command in maxima ?	how to to login to my emailbox using shell or java code
+1	i used the move command and all files disappeared	what exactly did mv /tmp/folder/* /* do to my filesystem ?
+1	i can not seem to remove a file even after changing ownership and permissions	cannot delete a file - permission denied - why ?
+0	how to stop telnet access for a particular ip address ?	gcc ( toolchain ) for ralink soc - elf not found and syntax error
+0	can not upgrade virtualbox in mint 12	move preserves ownership of source files not allowing writes
+0	fedora 15 crash after xorg . conf file update	how to bind a key sequence to a widget in vi cmd mode zsh ?
+0	taking the linux install cd out during installation ?	dynamically change /etc/hosts
+0	cpu and memory usage	ssh says : you do not exist , go away !
+0	how to open a program as another user inside a logged display ?	why does hitting " ctrl minus " in the command line shrink the font size ?
+0	need explanation on resident set size/virtual size	fix lvm physical volume definition after removing /dev/sdb
+0	how do i resolve samba share to ip address or host name	make the dns server update my host name
+1	learning unix with video lessons	online course that covers unix/linux systems programming
+0	fedora 12 sleeping forever error	save sessions to file in xmonad
+0	is there a light http proxy i can run without root privileges ?	twinview : switched placement ( right/left )
+1	universal package manager for install/uninstall ?	wrapper for package managers
+0	how do i route web requests into my private network depending on the domain in the url ?	nm-applet runs fine from the command line but not at startup
+0	shell script to read from multiple files in parallel	will docky run on gnome 3 with gnome shell ?
+1	out-of-the-box centos in virtualbox ( nat ) : network is unreachable	centos no network interface after installation in virtualbox
+1	change the number of rows and columns in the tty	how to change font-size , number of rows / columns on a terminal
+0	how to find vm os installation media file in the proxmox web interface ?	tar a folder without . git files ?
+0	suse nvidia driver problems on 650m + intel i915	/proc/self/maps - 3rd mapped piece of file ?
+0	extensions " grayed out " on extensions . gnome . org	check if genisoimage is succesful
+0	does os x have its own line format ?	can libnotify be used to execute a script ?
+0	how to set cols and lines for a subprocess	how do i detect a copy event in finder ?
+0	is there some sort of pdf to text -converter ?	automating minisat solutions
+0	debian dhcpd " no subnet declaration for eth0"	start the script with sudo not working
+0	can someone change content of a file with permission 777 on a server ?	external disk partitions with identical uuids
+0	can i configure software raid on an existing server without losing the existing partition ?	linux memory usage ?
+1	how long does a ssh connection last ?	how does tcp-keepalive work in ssh ?
+0	how to log if an environment variable is unset ?	is there a way to create a new file and insert text into this file all with bash ?
+1	when to use double quotes with a variable in shell script ?	$var vs ${var} and to quote or not to quote
+0	can the fedora installer partition the disk itself ?	unmet dependencies using apt-get on ubuntu
+0	the dependency is not installed	how can i test whether connection to the given host/port is established in bash ?
+0	append string where it belongs in sorted file	how to determine if and which linux security module ( lsm ) is available ?
+1	how to recover : deleted accidently important files	unix/linux undelete/recover deleted files
+0	hostname not changing on centos 6.4	how to monitor the number of rows inserted per second and per minute into mysql db
+0	when patching what is the difference between arguments -p0 and -p1 ?	how can i view 10-bit h264 ( hi10p ) videos in gstreamer video players like totem ?
+0	is there a utility that interprets /proc/interrupts data in time ?	usb2.0 device not recognized anymore
+0	api for panel applets on eos pantheon ?	resources system v vs bsd
+0	how to setup 3 screens with 2 ati gpu debian squeeze	rxvt-unicode + mc - strange characters in root shell only
+0	help for shared web hosting in lan	login command fails and closes connection
+1	c shell array declaration syntax , ( ) vs . {}	c shell array declaration syntax , ( ) vs {}
+0	arch install compiz	haskell , c++ , awk , bash , lisp . . . which one is faster ?
+1	how can i rename all files with one extension to a different extension recursively	recursively rename e-mail files from . txt to . eml
+0	set a screen session name at the command prompt	why does not `restore` display my utf-8 encoded filenames correctly in interactive mode ?
+0	e- and f- versions of commands	vmblock on archlinux
+0	curl timeout troubleshooting	best conventions for icons in debian/ubuntu
+0	add a file to a different path in a zip file	how to see driver parameters ?
+0	swap partition in lvm ?	display present working directory in terminal
+1	removing path in env variable path permanently	update linux path permanently
+0	how can i test the current carrier state for an ethernet adapter in linux ?	flash video in full screen adapts primary screen 's size all ways
+0	taking the linux install cd out during installation ?	does netbsd supports ppc64 ?
+0	vim commenting out what i paste	why does scp hang on copying files larger than 1405 bytes ?
+0	on what occasion will inode change ?	wrong amount of free disk space seen after using gparted
+0	awesome : incorrect timezone	how can i responsibly run updates automatically on arch linux ?
+0	how to add ' open folder as root ' in elementary os file manager context menu ?	arch linux installation on vmware will not proceed
+0	make stdout and stderr be buffered by the same buffer	can not do backward search with big n in vim , some plugins override it
+0	cannot create l2tp/ipsec vpn connection on gentoo	unable to close a luks partition
+0	installing linux on an external hard drive and multibooting with windows 7/8	how to install libreoffice on scientific linux 6.1 ?
+0	return only the portion of a line after a matching pattern	how to return to underlying script from tail -f
+0	how to remember the difference between du and df ?	does ionice work with the deadline scheduler ?
+0	i can not figure out how to install firestarter fedora	create a wifi hotspot on gnome 3 / arch linux
+0	running script before shutdown seemingly not working	please help diagnose very slow remmina session for virtualbox vm
+0	how does ssh -x function ?	how to update centos 6.5 to kernel 2.6.32-431 ?
+0	iptables rules too restrictive ; drupal webserver cannot access repositories , ntp or even websites	mirror a site with wget that only response with gzip
+0	nginx loadbalancing between php-fpm and apache	installation of my custom debian iso failed
+1	what is the meaning of the number part of man pages ?	what do the numbers in a man page mean ?
+0	why does not my udev rule work ?	can you make zsh autocorrect smarter ?
+1	uninstalling software built from source	keeping track of programs
+0	directory " diff " ?	how to get rid of `mosh` spamming `last -f /var/log/wtmp` ?
+0	apache subdomain can not be resolved	bash vs ksh pipes
+1	how to check os and version using linux commmand	how can i tell what version of linux i am using ?
+0	can not boot properly after moving all files off then back on my vm drive	access to the files beyond wine 's virtual disks
+0	how to reattach usb thing after safely ejecting ?	manage only a section of a config file with puppet ( multiline file_line )
+0	how to escape text in awful . util . spawn_with_shell command ?	how to get centos 6.5 gui ?
+0	process movie intelligently	anyone know the meaning of yy ?
+0	launch a gnome session from terminal	script command without output
+0	different routing for each address on an interface	how can i extract the hash value of a luks device ?
+0	how to identify process accesing usb port ( scale ) ?	running both sudo and nohup on a command
+0	why is not the ls command listing huge filesizes ?	lz4 kernel module in centos without recompiling
+1	vim and tmux are conflicting . how can i fix this ?	getting 256 colors to work in tmux
+0	rmmod module reappeared after plugging back device	how can i dump the contents of a filesystem 's superblock ?
+1	tricks for avoiding bash history logging ?	how do i close a terminal without saving the history ?
+0	keeping pushbullet for chrome active with chrome closed ?	how to combine deb dependencies into main package ?
+0	match one part of a regular expression in a kwrite find-and-replace regex	easiest method to create pdf from template using command line ( without pdflatex ) ?
+0	run script in a non interactive shell ?	grub v2: kernel " has invalid signature"
+0	list subdirectories only n level deep	is there any way to get intel i915 graphics without acpi ?
+1	umask base permissions on usb drive	how to have correct permissions of files from usb disks ?
+0	change default title bar icon	must pass urls in quotes
+0	how to get the relative paths with ls ?	android emulator on arch linux
+0	fencing vm nodes	problem with text added to pdf under xournal after exporting to pdf
+0	discovering possible raid configuration of a bunch of disks	applying limits to the trash on debian wheezy
+0	allowed and safe characters for zfs filesystem in freebsd	less -j is not working for me
+0	making two drives show as one on debian ?	ncmpcpp character problem
+0	libvirtd ( kvm ) does not reload the kernel when i reboot the machine	host home . lan . home . lan not found : 4 ( notimp ) error in bind9 ( dns )
+0	cheapest way to find the oldest file ( recursively ) from a directory under heavy load	bash + is there something like log4j for bash script ?
+0	log every invocation of every suid program ?	show colors and disable line wrap
+1	why does " logging out " of a session activate a newly added supplementary group ?	i added a user to a group , but group permissions on files still have no effect
+0	skype does not appear in panel ( elementaryos 0.2 )	concatenate a folder 's java files , with a header for each file
+1	how to find the full path of a file from my desktop in centos ?	how to unpack a downloaded tar . bz2 archive ?
+0	list iptables rules as append command	do links to /tmp files get deleted ?
+0	append a column	disable /net ghosting for autofs5
+0	systemd/agetty : halt machine when session ends	creating a variable with sed in ksh
+0	why is this init . d-script not being executed at system reboot ?	installing ipython3 fedora 20
+0	boot repair taking a very long time , stuck on " create a bootinfo summary"	linux - why is kernel . shmall so low by default ?
+0	is it better to set rules in ip6tables or disable ipv6 ?	can not run put udisks commands in udev scripts
+0	linux icon naming conventions	save custom keyboard shortcuts in gnome
+0	package installation and dependancies - how to prevent installation of existing libraries ?	which user group can use the ' tap ' net device ?
+0	linux guest vm on mac host - keyboard	bluetooth profile info in linux
+1	can i redirect stdout from a background application after starting it ?	how to redirect output of a running program to /dev/null
+0	keeping a process running after putty or terminal has been closed	bashrc that calls other bashrc depending on linux distro
+0	how do i quickly move the cursor to the end in bash in vi mode ?	how to install google chrome with apt-get ?
+0	sshfs always asking for password in fstab ?	should i install ibus-1.0 to build webdriver ?
+0	link value is 2 by default for folders	disable glob qualifiers in zsh
+0	errors when booting with encrypted lvm	filesystem type on solaris 5.10
+0	how to read user input in pipe ?	dns reverse query
+0	set gnome terminal background/text color from bash script	what is the difference between the partition guid code and partition unique guid ?
+0	output while reading keyboard input	kdump does not produce core dump after buggy module is loaded
+1	self complied version of gcc overwriting package installed version	keeping track of programs
+0	kde : how to bind permanently an application to a desktop/activity ?	ssd crash randomly on linux mint 17
+1	fedora 's command-not-found does not work	fedora 's command-not-found does not work
+1	hard link for directories	why hard links not allowed to directories in unix/linux
+0	searching a file & excluding lines with a specified string	gcc ( toolchain ) for ralink soc - elf not found and syntax error
+0	reset a pci device in linux	does [ [ :space : ] ] work for sed patterns on all linux distros ?
+1	ssh to a box , run a command , output data to a file , then move on to the next ip adress	automatically run commands over ssh on many servers
+1	shell-independent way to cp dotfiles from a folder to another	how do you move all files ( including hidden ) in a directory to another ?
+1	file permissions mode ending in @ or +	what does the @ mean in ls -l ?
+1	lvm to extend a partition ?	how to extend lvm in rhel 5.6
+0	listing debian packages which are not fully installed	lfsh . . . what is '/lib/init ' for ?
+0	how to configure alias in apache 2.4 ?	i do not have writing access to a subdirectory in /
+0	what signal does x send to its clients when it receives sigint ?	uninstalling iceweasel with apt-get autoremove
+0	read and confirm shell script before piping from curl to sh ( curl -s [ url ] | sh )	rpm package naming convention
+0	free all function keys ( f1-f12 ) for gnome-terminal	is there a way to pass a variable from an awk statement to a bash function as an argument ?
+1	how to find out which virtualisation technology is used on linux vps server ?	easy way to determine virtualization technology
+0	trying to update bugzilla on fedora 16 using yum	lags on file access , is my hdd going to break ?
+0	how to delete virtualbox networking rule ?	using lvm with ssd and sata drives
+0	mumble does not bind to network address on boot , needs to be restarted ( does not properly wait for network ? )	how to grant a " no-root-user " rights to start/stop/restart mysql server on suse machine ?
+0	how can i run growisofs via sudo ?	obtain . cer file from . pem file
+0	nvidia hdmi audio not visible on system	how can i share a thunderbird ( icedove ) profile , in real-time , between two computers ?
+0	find first line beginning with following	modify user-defined system variables ( that is a number ) of remote server machine using ssh ?
+0	ls does not show a hidden file ( os x )	how to turn off color with `ls` ?
+0	is it possible to save a kde desktop configuration ?	why is the provides field in the local debian package ignored ( depcompareop ) ?
+0	problem at booting windows from grub2 menu made by debian for itself	how to exclude numeric directories with rsync ?
+0	where to download wolfenstein : enemy territory for linux ?	what does the `set $variable` do ?
+0	how to place the toolbar to the top in fluxbox ?	what is a good way to debug issues with x forwarding over ssh where just some applications will not run ?
+0	how to set keycodes manually in vim ?	"sudo : sorry , you must have a tty to run sudo " when using sudo in a remote script
+1	what option ( s ) would you use to sort a file named foo in place , that is replacing the original file with the sorted version ?	sort inplace - like sed --in-place - exists ?
+0	install linux without usb or dvd ?	pass a function to another user in bash ?
+1	can i prove that an ssd is broken ?	-bash : /usr/sbin/useradd : input/output error — what does this mean ?
+0	debian live 3 . x with encrypted root filesystem	running a process multiple times at the same time
+0	modification and access time of a file ?	mousekeys is too slow in gnome3 fedora
+0	how do i scan for invalid characters on gedit ?	tar a folder without . git files ?
+0	execute john the ripper on multiple processors using mpirun	read/write access on raw ntfs image
+1	script executed from cron does not display gui notifications	open a window on a remote x display ( why " cannot open display" ) ?
+1	how to run script using ssh from remote computer and avoid its interruption if remote computer goes offline	keep ssh sessions running after disconnection
+0	interesting numbers when apache benchmarking	how to output string completions to stdout ?
+0	overclocking tools in linux	disable a user 's login without disabling the account
+0	alternative to su/sudo on barebone system	unix command to check if any two lines in a file are same ?
+0	find the top 50 directories containing the most files/directories in their first level ?	installing minix3 on vmware
+0	can someone provide an xargs example piping mysql query data into another command ?	chromebook crouton debian xfce4 - cannot change locale !
+0	how to map terminal shortcut from ctrl-m to another combination	inserting the command line text before output in stdout ( for pipe / redirection )
+0	command substitution in shell script	how can a linux machine run an exe on a remote windows server ?
+0	how to dock an application installed from terminal to the launcher panel in ubuntu	interfacing ds1337 rtc on lpc17xx
+0	problem when trying to cross-compile an ethernet driver on an old linux kernel	flattening a nested directory
+0	how to do a regex search in a utf-16le file while in a utf-8 locale ?	linux distribution that still ships with kde3 ?
+0	spawn external program in the background inside a loop	how can i change my bash prompt to show my working directory ?
+0	how do i search the linux kernel mailing list archives ?	usb drive software disk mirroring - is this the right approach ?
+0	partition /usr/local : can i use the software there after reinstall ?	installing elementary os on a macbook pro 13" early 2011 ( 8,1 )
+1	is my ssd broken ?	-bash : /usr/sbin/useradd : input/output error — what does this mean ?
+0	high availability of services	windows boot configuration data ( bcd ) viewer for linux
+0	kernel 3.12 or 3.10 ? which one has more features , newer and better ?	diff dpkg files with local copies
+0	getting source as flatfile and to remove the carriage returns and \n . . . special charaters ?	why is my laptop-mode configuration being ignored ?
+0	can md cope with a badblock list ?	trouble setting up wireless fedora 17
+0	how can i dump the contents of a filesystem 's superblock ?	ubuntu installation 11.10
+0	not receiving any data from acm device	how to build a custom kernel with localmodconfig that support hardware of multiple machines ?
+0	aufs whiteout removal	what could be the bottleneck on this aix machine ?
+0	how to avoid ssh asking permission ?	git archive including uncommitted modified files
+0	linux distro installation on 64 bit processor	understand netstat -i flgs
+1	what disk is a file / directory stored on ?	what file system is my file on ?
+0	why is `kill -s int ` behaving differently from `ctrl-c` ?	detecting a " plug pulled " scenario with linux
+0	network simulator ns-2: modeling of fragmentation in the network with different mtu on routers	shebang : history and purpose
+0	is there anyway to download an entire rhel repo from windows ?	caja-x-desktop opens up windows 13.04 fix
+0	why does a graphical install show my boot option , but a textual install not ?	python-pam not working . . . how to dig for the error ?
+0	getting samba on suse to work with ntfs drives	target filesystem does not have requested /lib/systemd/systemd
+0	sshfs always asking for password in fstab ?	usb bendpointaddress varies when run on different targets
+0	zsh refusing to accept new autocomplete script	how does one determine the amount of space allocated to their command line ?
+1	how to recover a sd card ?	how to recover data from a bad sd card ?
+0	what code runs when i type " sudo service nginx start"	full path name of bash ? and base process of linux ?
+0	fedora 19 - booting does not show login screen	how can i know if a network is password-protected before connecting to it ?
+0	wi-fi disconnects immediately ?	why does a bash here-string add a trailing newline char ?
+0	zerofree verbose returns what ?	download attachments in a url redirect via axel
+0	how to use 7z to archive all the files and directories ( including hidden ones ) in a directory ?	compare two kernel config files from the menuconfig perspective ?
+0	tcsh bitwise | operator	how to combine dmix with ladspa plugins to default device
+0	sipe ( plugin pidgin-gaim ) unable to find libpurple headers	does dm-crypt partition look like random noise ?
+1	should i use $* or $@ ?	in bash , what is the safest way to pass variables to another program -- $* or $@ ?
+0	how to install hal on puppy linux barebone 5.7.1	how to browse file from sudoer account from guest account ?
+0	modifier keys cannot be mapped to regular keys on usb keyboard with udev	linux - how to open a console and display command results on startup ?
+0	detecting headphone connection/disconnection in linux	can not execute some shell command from php
+0	display shuts down while watching a movie after 10 minutes no matter the settings in elementary os	what does the following kernel message mean ?
+1	why is bash interpreting characters that i have character escaped ?	how to properly escape exclamation points in bash ?
+0	bash script : passing a variable to a bash script that contains quotes , single quotes . etc	a new version of configuration file /etc/default/grub is available , but the version installed currently has been locally modified
+0	resources system v vs bsd	proxmox master node crashes
+0	npm issues with uglify-js	how do i find where a port is ?
+1	kernel can not find /dev/sda file during boot	kernel compilation error
+0	can i get the ffmpeg command-line from an existing video ?	local yum repository with grouplist not working
+0	openvpn : push a route to client with a different gateway	how can i restart the ssh daemon on ubuntu ?
+1	indentifying a linux container	easy way to determine virtualization technology
+0	slow boot , how to program fsck to run like a cron job ?	applications for handling appointment wishes
+0	double rm verification in zsh	why is vim not being opened in its own screen ?
+0	how to detect when a shell is owned by a remote ssh session ?	how to change hostname on centos 6.5 ?
+0	running gui application as another ( non-root ) user	how to get vhosts for a psybnc ?
+0	how can i de-fragment a drive using ubuntu ?	viewing a screencast encoded with camtasia
+0	what are all of the ssh key files ?	about sector and blocks , and a little confusion in /proc/diskstats
+0	how to compile with third party libs properly ?	vmware vix 1.13 on ubuntu 12.04 not working
+1	how should i compile a dev package from source ?	installing from source . how to resolve dependencies without destroying the package manager
+0	why will not my computer connect to my linux access point ?	extract text from source code website
+1	why is not the first executable in my $path being used ?	how do i clear bash 's cache of paths to executables ?
+1	what happened to the old files if we mount a drive to the directory ?	where do the files go if you mount a drive to a folder that already contains files ?
+1	change name of em1 to eth0 in fedora 19 ?	how can i change the default " ens33" network device to old " eth0" on fedora 19 ?
+0	shifted screen with amd card both drivers	on debian ( 64-bit ) , how do i install glibc that i built from source ?
+0	is there a way to listen to process ?	locating mail users and setup for rt
+0	why is not there a truly unified package manager for linux ?	how to create a patch file for new source code
+1	concatenating two variables with an underscore	how to concatenate strings in bash ?
+0	begin root process at boot ?	xfce keyboard layout switcher broke . xmodmap caps lock remapping
+0	looking for a good interactive pdf viewer	what information can i find out about an eventpoll on a running thread ?
+0	how to download latest version of cmake ?	tmux session_name count
+0	edid invalid on usb displaylink device	which strategy suits best a user with a scientific background like me ? ( linux desktop , dual boot , virtualization ) / ( fedora ? arch ? win ? )
+1	how can i change the date modified of a folder to the last changed file inside ?	how do i change folder timestamps recursively to the newest file ?
+0	dir-color failure in html and css files in several terminals	copy files based on date/time from subset of directories
+0	how to catch an error in a linux bash script ?	i have an ati radeon hd 6300 series video card ; what do i use , radeon or radeonhd driver ?
+0	bash commands/script to remove a line from csv with duplicate in column	check values in a text file
+0	shell parameter substitution to rename files	what tools to use to eliminate metadata in graphics files ?
+0	how can i have linux mint 15 olivia always startup in console mode	what is the most efficient way to move a large number of files that reside in a single directory ?
+1	should i use $* or $@ ?	what is the difference between $* and $@ ?
+0	back button to middle mouse button	emacs mode in zsh : m-b m-f etc . show weird symbols
+0	stay at same working directory when changing to sudo	"history " stops working when run inside bash script
+0	starting rng-tools in sles guest in virtualbox	correct permissions for /var/www/html ?
+0	how to run a script on usb removal ?	print a string including single quotes and other special characters
+0	bash execute read command from file	what is the alternative of wingdings 2 with wine ?
+0	accessing multiple wifi networks simultaneously from debian wheezy	how to determine bitness of hardware and os ?
+0	linux fullscreening video	no package community-mysql-devel available
+0	transform an udp unicast packet into broadcast ?	error with local created repository
+0	undo iptables modification	what are the purposes of the different types of xwindows fonts ?
+0	how to compile kernel for kvm guest ( without paravirtualization ) ?	automate file transfer from windows to unix
+0	mount a second ssd drive on centos - how can i figure out which is the unused drive ?	what alternatives are there to ipset for blocking large sets of ip addresses / address ranges ?
+0	check if folder is a mounted remote filesystem	whta does '\+::::::/bin/bash ' in /etc/passwd mean ?
+0	how to have autocomplete ignore a specific completion	oracle : ora-01089: immediate shutdown in progress - no operations are permitted
+0	shell unexpected end of file error	snmpv3 traps are not being captured correctly
+0	"permission denied " trying to get a file using tftp	can i get the ffmpeg command-line from an existing video ?
+0	what is the alternative to using metamail with nmh ?	caps lock does not take effect on all letters
+0	manually interacting with postfix mail queue	where are all the posibilities of storing a log file
+0	how to stop a program running as daemon	ls command : how to ignore case without globbing
+1	how to setup kiosk type functionality in linux mint cinnamon ?	debian based system , only one gui program , nothing else
+0	arch linux in qemu : failed to access perfctr msr error	how to sed -e ' s///' everything except a specific pattern ?
+1	permission issues when doing system backup using rsync	execute remote commands , completely detaching from the ssh connection
+1	histtimeformat modification . in /etc/bash . rc or /etc/profile ?	permanent environment variable for all users
+1	start up commads in lubuntu 2	start up commads in lubuntu
+0	automounting with udev takes too much time	how to build nginx on ubuntu with cache_purge module ?
+0	bad wifi with macbook air mid 2012	"waiting for network configuration " upon boot
