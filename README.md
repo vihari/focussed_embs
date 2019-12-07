@@ -29,13 +29,13 @@ Follow the steps below.
 	2. Use the small target relevant text in a folder called `lens/vector_X` with the file name `content.txt` again.   
 	3. Once you have built the maven project, run using the command: `cd lens/; java -jar target/lens-0.01.one-jar.jar X 0.9 50  -Djava.util.concurrent.ForkJoinPool.common.parallelism=50` where 'X' is the target name assigned in step (2). See 'lens/src/main/java/Lens.java' for the meaning of the command line arguments.   
 	
-You should now find in the folder `vectors_X/selected.txt`, `vectors_X/ir-doc-scores.txt`. The former contains the selected snippets one per line and the latter file contains the corresponding doc score assigned to the text span. We also include topic irrelevant and random text spans (which is hard-coded to 5% of the total unselected text spans) towards the end of this file. The folder should also include `selected-debug.txt` which gives more detail on why a snippet from wiki is picked by showing the vwords that triggered the selection and closest text span from the target corpus. 
+You should now find in the folder `vectors_X/ir_select/selected.txt`, `vectors_X/ir_select/ir-doc-scores.txt`. The former contains the selected snippets one per line and the latter file contains the corresponding doc score assigned to the text span. We also include topic irrelevant and random text spans (which is hard-coded to 5% of the total unselected text spans) towards the end of this file. The folder should also include `ir_select/selected-debug.txt` which gives more detail on why a snippet from wiki is picked by showing the vwords that triggered the selection and closest text span from the target corpus. 
 
 ### Step 2 -- Train your target embeddings
 Use the standard word2vec code included in `src/word2vec.c` trained for sufficient number of epochs for this step.
 
 ### Step 3 -- Train embeddings on your augmented data
-* Context score each of the tokens in the data with target embeddings using `src/context_scorer.c`.
+* Context score each of the tokens in the data with target embeddings using `scripts/score_word_context.py`.
 * Finally train embeddings using `src/weighted_word2vec.c`
 
 ## Downstream tasks
