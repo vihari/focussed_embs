@@ -2,13 +2,12 @@
 *~
 /vectors_*
 *.bin
-*.txt
 *.log
 /joint
 /prelm_*
-/data
 /context_scorer_model
 *.out
 *.pyc
 /lens/vectors_*
 /lens/target
+/lens/wiki
