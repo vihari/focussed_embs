@@ -28,7 +28,7 @@ The maven (Java) project under the folder `lens` can be used to collect target r
 
 Follow the steps below.  
 	1. Place your source (multi-topic generic corpora) text in a folder named `lens/vector_wiki` and name it `content.txt`.  
-	2. Use the small target relevant text in a folder called `lens/vector_X` with the file name `content.txt` again and `X` any name you would want to call it.   
+	2. Use the small target relevant text in a folder called `lens/vector_X` with the file name `content.txt` again and `X` is any name you would want to call it.   
 	3. Once you have built the maven project, run using the command: `cd lens/; java -jar target/lens-0.01.one-jar.jar X 0.9 50  -Djava.util.concurrent.ForkJoinPool.common.parallelism=50` where 'X' is the target name assigned in step (2). See 'lens/src/main/java/Lens.java' for the meaning of the command line arguments.   
 	
 You should now find in the folder `vectors_X/ir_select/selected.txt`, `vectors_X/ir_select/ir-doc-scores.txt`. The former contains the selected snippets one per line and the latter file contains the corresponding doc score assigned to the text span. We also include topic irrelevant and random text spans (which is hard-coded to 5% of the total unselected text spans) towards the end of this file. The folder should also include `ir_select/selected-debug.txt` which gives more detail on why a snippet from wiki is picked by showing the vwords that triggered the selection and closest text span from the target corpus. 
