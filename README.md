@@ -2,7 +2,7 @@ This repository contains data and code used for ACL 2019 publication "Topic Sens
 
 # Data
 ## Stack Exchange data
-The folders with pattern: `data/{physics,gaming,unix,android}_{se,10mb}` contain the labeled duplicates and free text spanning either 1MB (for folder name ending in 'se') or 10MB (for folder name ending in '10mb').  
+The folders with pattern: `data/{physics,gaming,unix,android}_{se,10mb}` contain the labeled duplicates and free text of size either 1MB (for folder name ending in 'se') or 10MB (for folder name ending in '10mb').  
 Each of labeled/unlabeled train/test data contain 5 splits.  
 * `content_{0,1,2,3,4}.txt, non_overlapping_content_{0,1,2,3,4}.txt` are the train and test data used in language model experiments.  
 * `train_{0,1,2,3,4}.tsv`, `dev_{0,1,2,3,4}.tsv`, `test_{0,1,2,3,4}.tsv` are the train/dev/test splits for duplicate detection. 
@@ -16,17 +16,19 @@ The folder: `data/ohsumed` contains supervised data in `{train,test}.txt` and th
 ## Embedding training 
 The useflow includes the following steps:
 1. Collect and augment your target data with topically relevant subset from a multi-topic and a large corpus such as Wikipedia. 
-2. Train embeddings on your target data for ample number of epochs (200 epochs is optimal for 1MB of text), these embeddings will help check for semantic drift when looking at the augmented data. 
-3. From step 1, you must have collected two kinds of contexts: (a) contexts from similar topics (b) random text spans to accommodate for irrelevant topic but relevant short text span. Use these contexts to train your final embeddings.
+2. Train embeddings on your target data for ample number of epochs (200 epochs is optimal for 1MB of text).
+3. Use the text collected in step 1, your smallish target data and embeddings trained in step 2 to train your final embedding. 
+
+The following sections give more details for each section. 
 
 ### Step 1 -- Topic sensitive text retriever
-The crucial part of the algorithm is collection of relevant snippets of text from a large generic corpus such as Wikipedia.
+Collect all relevant text snippets from a large text corpus such as Wikipedia.
 
-The maven (Java) project under teh folder `lens` can be used to collect target relevant content from Source. 
+The maven (Java) project under the folder `lens` can be used to collect target relevant content from Source. 
 
 Follow the steps below.  
 	1. Place your source (multi-topic generic corpora) text in a folder named `lens/vector_wiki` and name it `content.txt`.  
-	2. Use the small target relevant text in a folder called `lens/vector_X` with the file name `content.txt` again.   
+	2. Use the small target relevant text in a folder called `lens/vector_X` with the file name `content.txt` again and `X` any name you would want to call it.   
 	3. Once you have built the maven project, run using the command: `cd lens/; java -jar target/lens-0.01.one-jar.jar X 0.9 50  -Djava.util.concurrent.ForkJoinPool.common.parallelism=50` where 'X' is the target name assigned in step (2). See 'lens/src/main/java/Lens.java' for the meaning of the command line arguments.   
 	
 You should now find in the folder `vectors_X/ir_select/selected.txt`, `vectors_X/ir_select/ir-doc-scores.txt`. The former contains the selected snippets one per line and the latter file contains the corresponding doc score assigned to the text span. We also include topic irrelevant and random text spans (which is hard-coded to 5% of the total unselected text spans) towards the end of this file. The folder should also include `ir_select/selected-debug.txt` which gives more detail on why a snippet from wiki is picked by showing the vwords that triggered the selection and closest text span from the target corpus. 
